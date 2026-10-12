@@ -1,0 +1,524 @@
+{
+ "sources": [
+  {
+   "url": "https://www.thewildlion.org/lions/Kambula-Pride",
+   "title": "Kambula Pride",
+   "publisher": "thewildlion.org (writer Sikander Hayat; compiled from public blogs/forums)",
+   "date": "2025-05-29",
+   "what_it_adds": "Pride-level lineage summary linking Majingilane -> Mhangeni -> Kambula -> Birmingham/Ndzhenga eras; secondary compilation, not primary Londolozi.",
+   "key_facts": [
+    {
+     "claim": "Kambula pride (also called Nstevu/Ntsevu by Londolozi) is six females born into the Mhangeni pride in 2013, sired by Majingilane males.",
+     "subject": "Kambula pride",
+     "confidence": "medium"
+    },
+    {
+     "claim": "The six females had three brothers, the Mhangeni males, who went nomadic in 2016, the year the six females formed their own breakaway pride.",
+     "subject": "Kambula pride / Mhangeni males",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Kambula pride was said to have killed a Sparta pride female, the 'Tailless Tsalala female', and attacked members of their natal pride.",
+     "subject": "Kambula pride / Tailless Tsalala",
+     "confidence": "low (conflicts with Mhangeni page, which says the Mhangeni pride killed BB)"
+    },
+    {
+     "claim": "2016-2018: turnover of territorial males including Matshapiris, Southern Matimbas, Southern Avocas and the ageing Majingilane.",
+     "subject": "Kambula pride",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Birmingham males (four) intruded in 2017 and settled in 2018; five females gave birth to Birmingham-sired young mid-2018 to mid-2019; sixth female suspected infertile; pride grew to over 20.",
+     "subject": "Kambula pride / Birmingham males",
+     "confidence": "medium"
+    },
+    {
+     "claim": "First Birmingham generation included six males and one female reaching adulthood; a second generation was born 2020-2021 but most cubs did not survive (Northern Avocas/Othawa male pressure).",
+     "subject": "Birmingham offspring",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Late 2021: four Ndhzenga males invaded; Birmingham male 'Tinyo' disappeared (believed killed); last Birmingham male 'Nhenha' went nomadic.",
+     "subject": "Birmingham males / Ndzhenga males",
+     "confidence": "medium"
+    },
+    {
+     "claim": "As of 2025 pride split into two factions both under Ndzhenga control: main Kambula (5 adult females, 11 sub-adults, 4 cubs) and a 'Ntsevu' faction (3 adult females, 3 cubs).",
+     "subject": "Kambula / Ntsevu pride",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.thewildlion.org/lions/Mhangeni-Pride",
+   "title": "Mhangeni Pride",
+   "publisher": "thewildlion.org",
+   "date": "2025-05-29",
+   "what_it_adds": "Origin of Mhangeni (Tsalala breakaway) pride and the Tailless Tsalala (BB) link; Majingilane two-generation reproduction.",
+   "key_facts": [
+    {
+     "claim": "Mhangeni pride (Tsalala breakaways) originated from four females born early-mid 2009 into the Tsalala pride, sired by Mapogo males, descended from the Tailless and Tailed Tsalala females.",
+     "subject": "Mhangeni pride",
+     "confidence": "medium"
+    },
+    {
+     "claim": "In mid-2010 their grandmother, the original tailless female 'BB', left the Tsalala pride with the four sub-adult females to raise them away from the incoming Majingilane males, then later returned to her pride.",
+     "subject": "Tailless Tsalala (BB) / Mhangeni founders",
+     "confidence": "medium"
+    },
+    {
+     "claim": "The Mhangeni pride later encountered their grandmother on a kill and killed her.",
+     "subject": "Mhangeni pride / BB",
+     "confidence": "low (conflicts with Kambula page attributing the killing to Kambula pride)"
+    },
+    {
+     "claim": "By late 2015 six young females and three young males left the Mhangeni pride; the six females later formed the Kambula pride, the males disappeared into Kruger. Majingilane sired a second generation born late 2015-mid 2016.",
+     "subject": "Mhangeni / Kambula",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Majingilane males died of old age in 2018; Mhangeni females left to find mates, abandoning 12 sub-adults (9 males, 3 females); two females returned; three males joined Nkuhuma pride late 2018 but died.",
+     "subject": "Mhangeni 12",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Birmingham males dominated Kambula pride but fathered some cubs with Mhangeni females (one female reached adulthood); Othawa male was pseudo-dominant, later killed (apparently by Birmingham males).",
+     "subject": "Mhangeni pride",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Plains Camp males took over Mhangeni pride in early 2022, sired multiple litters; by mid-2025 the pride was 5 females and 4 young sub-adults and attracting the Nkuhuma male and Khanya.",
+     "subject": "Mhangeni pride / Plains Camp males",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.thewildlion.org/lions/Majingilane-Coalition",
+   "title": "Majingilane Coalition",
+   "publisher": "thewildlion.org",
+   "date": "2025-07-12",
+   "what_it_adds": "Majingilane origin, fight with Mapogo, prides sired and fate.",
+   "key_facts": [
+    {
+     "claim": "Five males; first appeared in Sabi Sands late 2009 as young nomads; names Darkmane, Scar Nose, Hip Scar, Golden Mane and a 'fifth Majingilane' killed by Mapogos.",
+     "subject": "Majingilane males",
+     "confidence": "medium"
+    },
+    {
+     "claim": "In mid-2010 Mapogo males Mr T and Kinky Tail killed one Majingilane (broke spine); that day the remaining four killed Kinky Tail; Mr T fled.",
+     "subject": "Majingilane / Mapogo",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Majingilane first targeted Tsalala pride (which had Mapogo offspring); the tailless Tsalala female left with four young females to raise them away from the males.",
+     "subject": "Majingilane / Tsalala",
+     "confidence": "medium"
+    },
+    {
+     "claim": "By 2012 Majingilane had fathered at least 13 cubs in the Sparta pride (8 alive), 4 in Fourways and 6 in Styx, citing Londolozi.",
+     "subject": "Majingilane offspring",
+     "confidence": "medium"
+    },
+    {
+     "claim": "The Tsalala breakaway females (later Mhangeni pride) bred with Majingilane at maturity, producing the six females that became the Kambula pride plus three Mhangeni males.",
+     "subject": "Majingilane / Mhangeni / Kambula",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Majingilane ousted the Selati males (2014), took over the Othawa pride and killed Selati offspring.",
+     "subject": "Majingilane / Othawa pride",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Hip-Scarred male died 2017; the other three died in 2018 of old age.",
+     "subject": "Majingilane males",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.thewildlion.org/lions/Mapogo-Coalition",
+   "title": "Mapogo Coalition",
+   "publisher": "thewildlion.org",
+   "date": "2025-06-22",
+   "what_it_adds": "Mapogo composition, origin in Sparta/Eyrefield pride, relationship to Nkuhuma, Styx, Tsalala prides.",
+   "key_facts": [
+    {
+     "claim": "Six males: five brothers from the Sparta/Eyrefield pride sired by the West Street males, plus older presumed half-brother Makulu. Names Makulu, Pretty Boy, Rasta, Dreadlocks, Mr T and Kinky Tail.",
+     "subject": "Mapogo coalition",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Mapogos first claimed territory around March 2006; killed Nkuhuma male Blondie in 2007; ousted Styx's Roller Coaster male by mid-2009.",
+     "subject": "Mapogo / Nkuhuma / Styx",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Mapogos fathered at least four Tsalala females that reached adulthood, plus litters in Sparta, Othawa, Ximunghwe, Ravenscourt and Sand River prides.",
+     "subject": "Mapogo offspring",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Coalition split: Mr T and Kinky Tail east; Makulu, Pretty Boy, Rasta, Dreadlocks west.",
+     "subject": "Mapogo coalition",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.thewildlion.org/lions/Nkuhuma-Pride",
+   "title": "Nkuhuma Pride",
+   "publisher": "thewildlion.org",
+   "date": "2025-05-22",
+   "what_it_adds": "Nkuhuma coalition succession: Blondie/Dozie, Mapogo, Gijima(old), Matimba, Birmingham, Northern Avoca, Black Dam, Kambula males.",
+   "key_facts": [
+    {
+     "claim": "Pride officially named around 2006 in northern Sabi Sands under dominant males Blondie and Dozie; Mapogos killed Blondie in 2007.",
+     "subject": "Nkuhuma pride",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Matimba males (six) arrived from the north in 2011; cubs born 2012 included Purple Eyes, Ridge Nose, Amber Eyes, Chela and Junior; the coalition split with Hairy Belly and Ginger as Southern Matimbas.",
+     "subject": "Nkuhuma / Matimba males",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Birmingham males (five) are described as nephews of the Matimbas from the same natal pride; took over Nkuhuma peacefully in late 2015.",
+     "subject": "Birmingham males / Matimba males",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Northern Avoca males (three) dominated Nkuhuma 2018-2023 after Birmingham moved south toward MalaMala.",
+     "subject": "Nkuhuma / Northern Avocas",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.thewildlion.org/lions/Styx-Pride",
+   "title": "Styx Pride",
+   "publisher": "thewildlion.org",
+   "date": "2025-05-28",
+   "what_it_adds": "Styx pride male sequence and generations.",
+   "key_facts": [
+    {
+     "claim": "Styx pride has roots in the early 1990s; males over time: Split Rock, Roller Coaster, Mapogo, Majingilane, Southern Matimbas, Birmingham, Avoca, Ndzhenga, then Gijima.",
+     "subject": "Styx pride",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Majingilane fathered at least six cubs in Styx, producing a coalition of two males plus females.",
+     "subject": "Styx / Majingilane",
+     "confidence": "medium"
+    },
+    {
+     "claim": "By late 2020 Styx had three females, daughters of Roller Coaster males, Majingilane males, and one Birmingham-sired daughter.",
+     "subject": "Styx pride",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.thewildlion.org/lions/Ndhzenga-Coalition",
+   "title": "Ndhzenga Coalition",
+   "publisher": "thewildlion.org",
+   "date": "2025-05-11",
+   "what_it_adds": "Ndzhenga members, origin and move north to Londolozi/Ntsevu pride.",
+   "key_facts": [
+    {
+     "claim": "Ndzhenga (N'waswitshaka) males: four; three from N'waswitshaka pride (Kruger), one from S79 pride. Names Amahle, Orange Eyes, Gore, Ubuso/crooked paw.",
+     "subject": "Ndzhenga males",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Crooked-paw male died ~Feb 2023, Gore died May 2023; two remain.",
+     "subject": "Ndzhenga males",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Remaining two moved north into Londolozi and MalaMala, ousted last Birmingham male, then the Ntsevu pride described as 'descendants of the very Birmingham Males they had replaced'.",
+     "subject": "Ndzhenga / Ntsevu pride / Birmingham",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Ndzhengas also mated with the Kambula pride (four females born 2013, five from 2018); about 21 cubs born Nov 2022-Apr 2023.",
+     "subject": "Kambula pride / Ndzhenga",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.thewildlion.org/lions/Gijima-Coalition",
+   "title": "Gijima Coalition",
+   "publisher": "thewildlion.org",
+   "date": "2025-05-07",
+   "what_it_adds": "Gijima coalition (new, 2022) vs the 2009-2011 'Gijima' males in Nkuhuma history; Msuthlu pride origin.",
+   "key_facts": [
+    {
+     "claim": "Current Gijima males: two young males active from 2022, originally a trio.",
+     "subject": "Gijima males",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Gijimas took over Southern pride, Styx pride, and Msuthlu pride (Msutlu), formed by four Talamati breakaway females.",
+     "subject": "Gijima / Msuthlu pride",
+     "confidence": "medium"
+    },
+    {
+     "claim": "In mid-2025 Gijimas were seen frequently around Londolozi and MalaMala.",
+     "subject": "Gijima males",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.thewildlion.org/lions/Plains-Camp-Coalition",
+   "title": "Plains Camp Coalition",
+   "publisher": "thewildlion.org",
+   "date": "2025-05-27",
+   "what_it_adds": "Plains Camp males parentage and conflicts.",
+   "key_facts": [
+    {
+     "claim": "Two males born 2017, half-brothers to the two Mantimahle males, sired by five Mantimahle males in Kruger.",
+     "subject": "Plains Camp males",
+     "confidence": "medium"
+    },
+    {
+     "claim": "They became dominant over Ximunghwe pride and Nkuhuma breakaways; conflict with Ndzhenga in 2024.",
+     "subject": "Plains Camp males",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.thewildlion.org/lions/Othawa-Pride",
+   "title": "Othawa Pride",
+   "publisher": "thewildlion.org",
+   "date": "2025-05-17",
+   "what_it_adds": "Othawa pride succession; Othawa male parentage.",
+   "key_facts": [
+    {
+     "claim": "Othawa male born 2015, sired by Majingilane, from a Mapogo-descended lioness; later dominant over Mhangeni pride until death 2021; sister 'Sassy'.",
+     "subject": "Othawa male",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Selati males ruled Othawa 2012-2014 before Majingilane takeover.",
+     "subject": "Othawa pride",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://secretafrica.com/the-majingilane-lions-of-sabi-sands/",
+   "title": "The Majingilane Lions of Sabi Sands",
+   "publisher": "Secret Africa",
+   "date": "n.d.",
+   "what_it_adds": "Independent corroboration of Majingilane cub counts, origin and fate.",
+   "key_facts": [
+    {
+     "claim": "Five brothers originally; one killed in 2010 by Mapogo males; four remained.",
+     "subject": "Majingilane",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Cubs sired: Tsalala 11 (3 surviving), Fourways 4 (3), Styx 6 (5), Sparta 13 (8); total 34, 19 surviving.",
+     "subject": "Majingilane offspring",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Held most of Londolozi area, about 26,676 ha at peak; Hip-Scar died first, Golden Mane died after buffalo injury; Dark Mane and Scar-Nose ended by old age.",
+     "subject": "Majingilane",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Mapogo_lion_coalition",
+   "title": "Mapogo lion coalition",
+   "publisher": "Wikipedia",
+   "date": "2025-07 (article flagged for style/citations)",
+   "what_it_adds": "Encyclopedia-style corroboration of Mapogo and Majingilane clash, Selati kill of Mr T. Uncited sections flagged by Wikipedia.",
+   "key_facts": [
+    {
+     "claim": "Mapogo originated from the Sparta/Eyrefield Pride; six members Makulu, Pretty Boy, Rasta, Dreadlocks, Kinky Tail, Mr T; controlled Sabi Sand 2006-2012.",
+     "subject": "Mapogo coalition",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Mr T killed by the Selati coalition (four) on 16 March 2012.",
+     "subject": "Mr T / Selati",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Majingilane (five) entered Mapogo territory in June 2010; one killed, then Kinky Tail killed by the other four.",
+     "subject": "Majingilane / Kinky Tail",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://sundestinations.co.za/21-lions-with-cubs-the-kambula-pride-seen-at-umkumbe/",
+   "title": "21 Lions and Cubs. The Kambula Pride Seen at Umkumbe",
+   "publisher": "Sun Destinations / Umkumbe Safari Lodge",
+   "date": "2020-01-20",
+   "what_it_adds": "Lodge corroboration that Kambula parentage is Majingilane x Mhangeni/Tsalala breakaways and cubs sired by Birmingham males.",
+   "key_facts": [
+    {
+     "claim": "Six Kambula females are the offspring of the Majingilane males and the Mhangeni/Tsalala breakaways.",
+     "subject": "Kambula pride",
+     "confidence": "medium"
+    },
+    {
+     "claim": "Kambula cubs were sired by the Birmingham ('Birmingham/Gowrie') males; 21 lions counted together.",
+     "subject": "Kambula / Birmingham",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.iconicafrica.com/the-lions-of-londolozi/",
+   "title": "The Lions of Londolozi",
+   "publisher": "Iconic Africa",
+   "date": "2019",
+   "what_it_adds": "Londolozi-specific 2019 snapshot: Ntsevu pride with 12 cubs, Tsalala female.",
+   "key_facts": [
+    {
+     "claim": "Ntsevu pride toured Londolozi with 12 cubs; 21 lions seen at one time.",
+     "subject": "Ntsevu pride",
+     "confidence": "medium"
+    },
+    {
+     "claim": "The remaining Tsalala lioness was the only female born to the Tailed Tsalala lioness; her three brothers dispersed into Kruger; she denned near Manyeleti River where she was born.",
+     "subject": "Tsalala pride",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://wildlifewireblog.substack.com/p/holding-the-line-the-nkuhuma-lionesses",
+   "title": "Holding the Line: The Nkuhuma Lionesses Part 1",
+   "publisher": "The Wildlife Wire (Substack)",
+   "date": "2026-02-05",
+   "what_it_adds": "Independent Nkuhuma history.",
+   "key_facts": [
+    {
+     "claim": "Nkuhuma pride first found late 2006 at Buffelshoek; mid-2007 nine lionesses, about 16 cubs, dominant males Blondie and Dozie.",
+     "subject": "Nkuhuma pride",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://25-south.com/2026/09/20/birmingham-pride-lions-greater-kruger/",
+   "title": "The Birmingham Pride: Lions of Greater Kruger",
+   "publisher": "25 South",
+   "date": "2026-09-20",
+   "what_it_adds": "Disambiguation: Birmingham Pride (Ngala/Timbavati) is distinct from the Birmingham male coalition.",
+   "key_facts": [
+    {
+     "claim": "The Birmingham Pride is a separate lioness family from the Birmingham male coalition; they share deep roots in the same Timbavati corner but are different animals.",
+     "subject": "Birmingham pride vs Birmingham males",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.more.co.za/blog/lion-dynamics-and-territorial-shifts-at-lion-sands-game-reserve/",
+   "title": "Lion dynamics and territorial shifts at Lion Sands",
+   "publisher": "MORE Collection / Lion Sands",
+   "date": "2024-10-07",
+   "what_it_adds": "Southern Sabi Sand 2024 corroboration: Gijima, Mkhuhlu(Nkuhlu) males, Styx, Southern, Msuthu prides.",
+   "key_facts": [
+    {
+     "claim": "Gijima males mated with Styx females; Mkhuhlu (four) males pushed on Lion Sands western boundary in 2024.",
+     "subject": "Gijima / Nkuhlu males",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "url": "https://www.wild-guide.org/area/sabi-sands",
+   "title": "Lions of Sabi Sands Game Reserve - Prides and Coalitions",
+   "publisher": "WildGuide (community-sourced database)",
+   "date": "2026-10",
+   "what_it_adds": "Closest thing to a structured lion database: 14 prides and 11 coalitions with short descriptions; Oct 2026 'community map' entries; thin and unverified.",
+   "key_facts": [
+    {
+     "claim": "Lists prides: Imbali, K7&K9, K8&K10 (Kambula BA), Mhangeni, Msuthlu, Nkuhuma, Ntsevu, Othawa, Sand River, Southern, Styx, Torchwood, Tsalala, Bateleur; coalitions Gijima, Mapogo, Ndzenga, Nkuhlu, Nkuhuma 2016 & Talamati male, Nkumati, Plains Camp, Kambula males, Styx & Floppy Ear Nomads, Young N'waswitshaka, Young Torchwood.",
+     "subject": "Sabi Sand prides/coalitions",
+     "confidence": "low"
+    },
+    {
+     "claim": "Ntsevu pride: 3 adult females and 3 subadults sired by the Ndzhenga males.",
+     "subject": "Ntsevu pride",
+     "confidence": "low"
+    },
+    {
+     "claim": "Mhangeni pride dominated by Nkuhuma 2016 male and the Talamati male; subadults sired by Plains Camp males.",
+     "subject": "Mhangeni pride",
+     "confidence": "low"
+    },
+    {
+     "claim": "Tsalala pride reduced to a single adult female, in Gijima territory; Msuthlu pride sired by Gijima males.",
+     "subject": "Tsalala/Msuthlu",
+     "confidence": "low"
+    },
+    {
+     "claim": "Ndzenga males: two remaining (Eorenji and Amahle) aged 10; Gore and Ubisuso died.",
+     "subject": "Ndzhenga males",
+     "confidence": "low"
+    },
+    {
+     "claim": "K7&K9 and K8&K10 are Kambula offshoots; K7&K9 cubs sired by Ndzhenga.",
+     "subject": "Kambula offshoots",
+     "confidence": "low"
+    }
+   ]
+  },
+  {
+   "url": "https://www.londolozi.com/en/experience/the-leopards-of-londolozi",
+   "title": "The Leopards of Londolozi (and leopards.londolozi.com lineage/dynasties)",
+   "publisher": "Londolozi",
+   "date": "n.d.",
+   "what_it_adds": "Evidence that Londolozi maintains structured leopard lineage pages (WP types leopard n=87, lineage n=7) but NO equivalent for lions.",
+   "key_facts": [
+    {
+     "claim": "leopards.londolozi.com exposes WP REST types 'leopard' and 'lineage' (7 lineages: Little Bush, River Female, Unknown, Short Tail Female, Saseka Female, Sunset Bend, Mother Leopard); no lion type exists.",
+     "subject": "Londolozi site structure",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "url": "https://blog.londolozi.com/wp-json/wp/v2/categories?search=lion",
+   "title": "Londolozi blog 'Lions' category and tags (metadata only)",
+   "publisher": "Londolozi blog",
+   "date": "2026-10-11",
+   "what_it_adds": "Taxonomy metadata only (bodies not read): category 'Lions' has 862 posts; tag 'Lion' 1099; tags for Kambula lioness, gijima male lions, Birmingham lion, Nkuhuma pride, Lion Dynamics (26) etc.",
+   "key_facts": [
+    {
+     "claim": "Blog category Lions (id 3325) holds 862 posts; the blog is the only lion archive on Londolozi sites.",
+     "subject": "Londolozi blog",
+     "confidence": "high"
+    }
+   ]
+  }
+ ],
+ "dedicated_lion_family_tree_pages_found": [],
+ "other_structured_lion_databases_non_londolozi": [
+  "https://www.wild-guide.org/area/sabi-sands",
+  "https://www.thewildlion.org/lions"
+ ],
+ "gaps": [
+  "No dedicated lion family tree / profile database exists on londolozi.com, photography.londolozi.com, leopards.londolozi.com or blog.londolozi.com: www sitemap has no lion pages; WP REST types on blog/photography have no lion/pride type; leopards site has leopard and lineage types for leopards only.",
+  "Only Londolozi lion archive is blog.londolozi.com category Lions (862 posts) and tags (e.g. /tag/nkuhuma-pride/, /tag/lion-dynamics/); these are being processed separately.",
+  "Third-party sources conflict: thewildlion.org says Mhangeni pride killed the Tailless Tsalala (BB) but its Kambula page says Kambula pride did so; Londolozi blog should be treated as authoritative.",
+  "thewildlion.org says Kambula is 'also known as Ntsevu by Londolozi' and later splits a Ntsevu faction; naming mapping between Kambula and Ntsevu needs Londolozi blog confirmation.",
+  "Nomenclature clash: 'Gijima' males (2009-2011 northern duo) vs Gijima males (2022 southern duo); 'Birmingham Pride' (Ngala/Timbavati) vs Birmingham males.",
+  "Facebook pages (Tsalala.Lions, Birmingham.Male.Lions, Nkuhuma.Lions) and Greater Kruger Wiki (kruger.fandom.com) could not be fetched (login/402/blocked); Leopard Hills, Luxury Safari Company, Arathusa blocked (403/406/Cloudflare).",
+  "No source found giving individual lioness names/mothers for Kambula, Ntsevu, Msuthlu pride members; wild-guide.org entries are community-sourced and thin.",
+  "No external source examined for Mapogo/Matimba/Nkumati male fathers at Londolozi beyond summaries; Nkumati males only listed on wild-guide (2 males, western, Oct 2026)."
+ ]
+}

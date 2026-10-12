@@ -1,0 +1,105 @@
+parent_id,parent,child_id,child,parent_role,derived_from
+11,Nottens 5:5 Female,277,Piva 2:2 Female,mother,child_field
+85,Camp Pan 4:3 Male,124,Tu-Tones 3:2 Male,father,child_field
+85,Camp Pan 4:3 Male,137,Mashaba 3:3 Female,father,child_field
+85,Camp Pan 4:3 Male,238,Tutlwa 4:3 Female,father,child_field
+85,Camp Pan 4:3 Male,320,Makhotini 3:3 Male,father,child_field
+120,,85,Camp Pan 4:3 Male,mother,child_field
+124,Tu-Tones 3:2 Male,265,Island 5:3 Female,father,child_field
+137,Mashaba 3:3 Female,154,Nkoveni 2:2 Female,mother,child_field
+137,Mashaba 3:3 Female,738,Ximungwe 5:3 Female,mother,child_field
+152,Vomba 3:2 Female,137,Mashaba 3:3 Female,mother,child_field
+152,Vomba 3:2 Female,238,Tutlwa 4:3 Female,mother,child_field
+154,Nkoveni 2:2 Female,2286,Plaque Rock 3:3 Female,mother,child_field
+154,Nkoveni 2:2 Female,10201,Xinkhova 2:2 Female,mother,child_field
+154,Nkoveni 2:2 Female,10203,Stone Drift 3:2 Female,mother,child_field
+154,Nkoveni 2:2 Female,10808,Shingi 3:3 Male,mother,child_field
+227,Ndzanzeni 4:3 Female,2129,Tortoise Pan 4:3 Male,mother,child_field
+230,3:4 Female,11,Nottens 5:5 Female,mother,child_field
+230,3:4 Female,232,Dudley Riverbank 3:3 Female,mother,child_field
+232,Dudley Riverbank 3:3 Female,227,Ndzanzeni 4:3 Female,mother,child_field
+232,Dudley Riverbank 3:3 Female,303,Dudley Riverbank 5:5 Male,mother,child_field
+234,Maxabene 2:2 Female,124,Tu-Tones 3:2 Male,mother,child_field
+234,Maxabene 2:2 Female,320,Makhotini 3:3 Male,mother,child_field
+236,Nyelethi 4:4 Female,259,Nanga 4:3 Female,mother,child_field
+236,Nyelethi 4:4 Female,275,Mbilo 2:3 Female,mother,child_field
+236,Nyelethi 4:4 Female,310,Nyelethi 4:3 Male,mother,child_field
+236,Nyelethi 4:4 Female,328,Nyelethi 2:3 Young Male,mother,child_field
+238,Tutlwa 4:3 Female,255,Nhlanguleni 3:2 Female,mother,child_field
+240,Sunset Bend 2:2 Female,152,Vomba 3:2 Female,mother,child_field
+240,Sunset Bend 2:2 Female,242,Xidulu 2:3 Female,mother,child_field
+240,Sunset Bend 2:2 Female,263,Tamboti 4:3 Female,mother,child_field
+240,Sunset Bend 2:2 Female,283,Campbell Koppies 3:2 Female,mother,child_field
+242,Xidulu 2:3 Female,2169,Piccadilly 3:3 female,mother,child_field
+242,Xidulu 2:3 Female,2320,Three Rivers 2:2 Female,mother,child_field
+249,Mother Leopard 2:2 Female,251,Tugwaan 2:3 Female,mother,child_field
+251,Tugwaan 2:3 Female,230,3:4 Female,mother,child_field
+253,Mhangeni 2:3 Female,234,Maxabene 2:2 Female,mother,child_field
+253,Mhangeni 2:3 Female,301,Mhangeni 2:2 Male,mother,child_field
+255,Nhlanguleni 3:2 Female,2217,Finfoot 3:3 Female,mother,child_field
+255,Nhlanguleni 3:2 Female,2219,Nkuwa 3:3 Female,mother,child_field
+257,Ximpalapala 4:4 Female,267,Tatowa 3:3 Female,mother,child_field
+259,Nanga 4:3 Female,2206,Makomsava 4:4 female,mother,child_field
+263,Tamboti 4:3 Female,265,Island 5:3 Female,mother,child_field
+269,,2307,Mawelawela 3:4 Male,mother,child_field
+271,Little Bush 3:3 Female,273,Kigelia 3:3 Female,mother,child_field
+271,Little Bush 3:3 Female,10087,Ntsumi 3:3 Female,mother,child_field
+273,Kigelia 3:3 Female,10644,Jacana 2:2 Female,mother,child_field
+277,Piva 2:2 Female,305,Piva 3:2 Male,mother,child_field
+279,Ingrid Dam 4:4 Female,2276,Xinzele 4:4 Female,mother,child_field
+281,Saseka 3:4 Female,236,Nyelethi 4:4 Female,mother,child_field
+283,Campbell Koppies 3:2 Female,261,Maliliwane 2:2 Female,mother,child_field
+285,Short Tail 3:4 Female,257,Ximpalapala 4:4 Female,mother,child_field
+285,Short Tail 3:4 Female,293,Tugwaan 5:4 Male,mother,child_field
+287,,307,Kaxane 3:3 Male,mother,child_field
+293,Tugwaan 5:4 Male,227,Ndzanzeni 4:3 Female,father,child_field
+293,Tugwaan 5:4 Male,303,Dudley Riverbank 5:5 Male,father,child_field
+299,Marthly 3:2 Male,154,Nkoveni 2:2 Female,father,child_field
+299,Marthly 3:2 Male,255,Nhlanguleni 3:2 Female,father,child_field
+299,Marthly 3:2 Male,259,Nanga 4:3 Female,father,child_field
+299,Marthly 3:2 Male,267,Tatowa 3:3 Female,father,child_field
+299,Marthly 3:2 Male,310,Nyelethi 4:3 Male,father,child_field
+299,Marthly 3:2 Male,328,Nyelethi 2:3 Young Male,father,child_field
+301,Mhangeni 2:2 Male,305,Piva 3:2 Male,father,child_field
+305,Piva 3:2 Male,263,Tamboti 4:3 Female,father,offspring_field
+305,Piva 3:2 Male,2320,Three Rivers 2:2 Female,father,child_field
+310,Nyelethi 4:3 Male,2063,Nweti 4:2 Male,father,child_field
+310,Nyelethi 4:3 Male,2307,Mawelawela 3:4 Male,father,child_field
+310,Nyelethi 4:3 Male,10263,Misava 4:3 Male,father,child_field
+310,Nyelethi 4:3 Male,10575,Kangela 3:3 Male,father,child_field
+312,Robson’s 4:4 Male,738,Ximungwe 5:3 Female,father,child_field
+314,Inyathini 3:3 Male,2129,Tortoise Pan 4:3 Male,father,child_field
+314,Inyathini 3:3 Male,2293,Mahlahla 2:1 Male,father,child_field
+316,Anderson 4:4 Male,2206,Makomsava 4:4 female,father,child_field
+316,Anderson 4:4 Male,2276,Xinzele 4:4 Female,father,child_field
+320,Makhotini 3:3 Male,273,Kigelia 3:3 Female,father,child_field
+320,Makhotini 3:3 Male,2312,White Dam 2:2 Male,father,child_field
+320,Makhotini 3:3 Male,10087,Ntsumi 3:3 Female,father,child_field
+332,Emsagwen 4:6 Male,316,Anderson 4:4 Male,father,child_field
+738,Ximungwe 5:3 Female,2293,Mahlahla 2:1 Male,mother,child_field
+738,Ximungwe 5:3 Female,10217,Ntomi 3:3 Male,mother,child_field
+780,River Female,253,Mhangeni 2:3 Female,mother,child_field
+1856,,271,Little Bush 3:3 Female,mother,child_field
+1976,Flat Rock 3:2 Male,2286,Plaque Rock 3:3 Female,father,child_field
+1976,Flat Rock 3:2 Male,8641,Ngungwe 3:3 Female,father,child_field
+1976,Flat Rock 3:2 Male,10566,Thumbela 4:3 Female,father,child_field
+2063,Nweti 4:2 Male,10636,Nottens 4:4 Male,father,child_field
+2063,Nweti 4:2 Male,10664,Golonyi 3:2 Female,father,child_field
+2063,Nweti 4:2 Male,10977,Kurhula 3:3 Female,father,child_field
+2169,Piccadilly 3:3 female,8641,Ngungwe 3:3 Female,mother,child_field
+2187,Senegal Bush 3:3 Male,10217,Ntomi 3:3 Male,father,child_field
+2276,Xinzele 4:4 Female,10566,Thumbela 4:3 Female,mother,child_field
+2301,Maxim’s 5:3 Male,10201,Xinkhova 2:2 Female,father,offspring_field
+2301,Maxim’s 5:3 Male,10203,Stone Drift 3:2 Female,father,offspring_field
+2301,Maxim’s 5:3 Male,10473,Nsuku 2:3 Male,father,child_field
+2301,Maxim’s 5:3 Male,10807,Tinxiya 4:3 Female,father,child_field
+2301,Maxim’s 5:3 Male,10808,Shingi 3:3 Male,father,child_field
+2307,Mawelawela 3:4 Male,10644,Jacana 2:2 Female,father,child_field
+2320,Three Rivers 2:2 Female,10473,Nsuku 2:3 Male,mother,child_field
+2320,Three Rivers 2:2 Female,10807,Tinxiya 4:3 Female,mother,child_field
+10087,Ntsumi 3:3 Female,10636,Nottens 4:4 Male,mother,child_field
+10087,Ntsumi 3:3 Female,10664,Golonyi 3:2 Female,mother,child_field
+10087,Ntsumi 3:3 Female,10977,Kurhula 3:3 Female,mother,child_field
+10274,,2063,Nweti 4:2 Male,mother,child_field
+10274,,10263,Misava 4:3 Male,mother,child_field
+10276,,10575,Kangela 3:3 Male,mother,child_field

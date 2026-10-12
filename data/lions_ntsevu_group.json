@@ -1,0 +1,2663 @@
+{
+ "group": "ntsevu_kambula_msuthlu_styx_othawa",
+ "prides": [
+  {
+   "name": "Ntsevu Pride",
+   "aliases": [
+    "Mhangeni Breakaway Pride / Mhangeni Breakaways (until 29 Apr 2017)",
+    "Mhangeni sub-adult females",
+    "Kambula Pride (the name Mala Mala used for the same pride, per 2024-03-21)",
+    "Nstevu / Ntesvu (blog misspellings)"
+   ],
+   "status": "active (post-2024 'Ntsevu' = smaller faction of 3 original lionesses plus Ndzhenga-sired cubs, mostly north of / east of the Sand River; still mating with Gijima Males in 2025-26)",
+   "first_mentioned": "2016-08-20",
+   "last_mentioned": "2026-08-23",
+   "origin_summary": "Six lionesses (plus three brothers) of the first Mhangeni litter (born 2013, sired by the Majingilane) who split from their mothers (the Mhangeni Pride) as sub-adults ~2015-16 and were renamed 'Ntsevu' ('six' in Shangaan) on 2017-04-29. Mhangeni -> Tsalala -> Castleton lineage. Mated with Matshipiri, Matimba, Majingilane then settled with the Birmingham Males (2018-2021), then Ndzhenga Males (Nov 2021-Aug 2025), then Gijima Males (from Aug 2025).",
+   "splits_and_takeovers": [
+    {
+     "date": "2017-04-29",
+     "event": "Mhangeni Breakaway pride formally renamed the Ntsevu Pride; six lionesses no longer rejoining the adult Mhangeni females.",
+     "source_url": "https://blog.londolozi.com/2017/04/29/mhangeni-breakaway-pride-renamed/"
+    },
+    {
+     "date": "2017-07-03",
+     "event": "Ntsevu pushed the Sparta pride out of the central/south-east range and killed one Sparta lioness.",
+     "source_url": "https://blog.londolozi.com/2017/07/03/can-a-lion-pride-die/"
+    },
+    {
+     "date": "2018-04-28",
+     "event": "Birmingham Males (4) become the Ntsevu's dominant/mating coalition (mating observed for months; first cubs 2018).",
+     "source_url": "https://blog.londolozi.com/2018/04/28/a-new-beginning/"
+    },
+    {
+     "date": "2021-11-25",
+     "event": "Ndzhenga Males (4) arrive in early Nov 2021; the surviving Birmingham Male is pushed out; Ntsevu mothers flee east/north with their 11 cubs, 7 lost.",
+     "source_url": "https://blog.londolozi.com/2021/11/25/for-one-to-rise-another-must-fall-part-1-of-lion-behaviour-through-a-take-over/"
+    },
+    {
+     "date": "2021-08-04",
+     "event": "11-12 sub-adults (6 males, 5-6 females; born mid-2018) leave the pride to become the Ntsevu Breakaway Pride.",
+     "source_url": "https://blog.londolozi.com/2021/08/04/whats-happening-with-the-ntsevu-prides-sub-adults/"
+    },
+    {
+     "date": "2022-04-11",
+     "event": "Two Ntsevu mothers (the 'Ntsevu Two') reappear with the last 4 Birmingham-sired cubs, having broken away from the main pride after the Ndzhenga arrival.",
+     "source_url": "https://blog.londolozi.com/2022/04/11/the-last-surviving-ntsevu-cubs-return-to-londolozi/"
+    },
+    {
+     "date": "2024-03-21",
+     "event": "Pride officially divided in two: smaller faction (3 original lionesses, living in northern Mala Mala) keeps the name Ntsevu; larger faction (1 original + 4/5 Birmingham-sired daughters + Ndzhenga-sired cubs) named Kambula Pride.",
+     "source_url": "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/"
+    },
+    {
+     "date": "2025-11-20",
+     "event": "After the Gijima Males push north (Aug-Nov 2025), the 3-lioness Ntsevu Pride with 3 cubs follows the Ndzhenga Males north; one Gijima Male mates with a Ntsevu lioness (Aug, Sep, Nov 2025).",
+     "source_url": "https://blog.londolozi.com/2025/11/20/the-gijima-male-lions-push-north-of-the-river/"
+    }
+   ],
+   "notes": "Pre-2024 blog posts use 'Ntsevu' for the whole pride (6 founding lionesses + cubs). From 24 Mar 2024 the name is restricted to the smaller faction. Counts of cubs/sub-adults conflict between posts (see open_questions)."
+  },
+  {
+   "name": "Kambula Pride",
+   "aliases": [
+    "Ntsevu Pride (pre-2024 name for the same lions)",
+    "Kambula Lionesses",
+    "Kambula Breakaway Pride (the 2025 sub-adult faction + mentor lioness)"
+   ],
+   "status": "active but fractured into three factions (Nov 2025 onward)",
+   "first_mentioned": "2024-03-21",
+   "last_mentioned": "2026-08-27",
+   "origin_summary": "Name given by Mala Mala to the Ntsevu Pride; officially adopted by Londolozi on 2024-03-21 for the larger faction of the old Ntsevu Pride after the Ndzhenga takeover: one founding Ntsevu lioness (born 2013) plus four-five daughters born 2018 (Birmingham-sired) and their Ndzhenga-sired cubs (Nov 2022-Aug 2023).",
+   "splits_and_takeovers": [
+    {
+     "date": "2024-03-21",
+     "event": "Created as a named pride when the old Ntsevu Pride was divided into 'Ntsevu' (3 originals) and 'Kambula' (1 original + 2018 daughters).",
+     "source_url": "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/"
+    },
+    {
+     "date": "2025-07-14",
+     "event": "Pride 'at a crossroads': 11 sub-adults (7 males, 4 females) travel with one adult lioness; the other four lionesses raise two new litters (4 cubs + 2 cubs) separately.",
+     "source_url": "https://blog.londolozi.com/2025/07/14/kambula-pride-of-lions-at-a-crossroads-what-lies-ahead-for-the-next-generation/"
+    },
+    {
+     "date": "2025-08-19",
+     "event": "Two adult lionesses deliberately isolate with six new cubs (Ndzhenga-sired) away from the sub-adults over ~10 months.",
+     "source_url": "https://blog.londolozi.com/2025/08/19/a-pride-in-divide-an-update-on-the-kambula-pride-dynamics/"
+    },
+    {
+     "date": "2025-11-19",
+     "event": "Pride formally described as three factions: (1) eldest lioness + 11 sub-adults heading into the Kruger; (2) two lionesses with 6 Ndzhenga-sired cubs; (3) two lionesses with new Gijima-sired litter(s) in the south-east.",
+     "source_url": "https://blog.londolozi.com/2025/11/19/the-latest-news-on-the-three-factions-of-the-kambula-pride/"
+    },
+    {
+     "date": "2025-11-27",
+     "event": "Gijima Males take over the territory; Ndzhenga Males withdraw north; first Gijima-sired litter (4 cubs) discovered; one sub-adult male killed by Gijima Males.",
+     "source_url": "https://blog.londolozi.com/2025/11/27/a-new-chapter-for-the-kambula-lionesses/"
+    },
+    {
+     "date": "2025-12-28",
+     "event": "One Kambula female reported to have lost her litter to the dark-maned Gijima Male; second female still nursing.",
+     "source_url": "https://blog.londolozi.com/2025/12/28/are-the-kambula-cubs-alive-virtual-safari-303/"
+    },
+    {
+     "date": "2026-05-11",
+     "event": "Two Kambula lionesses (the 'Gijima pair') give birth again in April 2026, denning together on the Sand River.",
+     "source_url": "https://blog.londolozi.com/2026/05/11/the-kambula-lioness-has-given-birth/"
+    },
+    {
+     "date": "2026-07-26",
+     "event": "Kambula Pride and the two Gijima Males seen together with eight cubs.",
+     "source_url": "https://blog.londolozi.com/2026/07/26/legacy-is-a-long-game-virtual-safari-333/"
+    }
+   ],
+   "notes": "'Kambula Males' (= Ntsevu Breakaway Males) is a separate use of the name for the four young males that left the pride in 2021-22."
+  },
+  {
+   "name": "Ntsevu Breakaway Pride",
+   "aliases": [
+    "Ntsevu Breakaways",
+    "Ntsevu Sub-Adults",
+    "Ntsevu Young Males / Ntsevu Males",
+    "Kambula Males (2024 alias)",
+    "Ntsevu/Kambula Males"
+   ],
+   "status": "dispersed: 4 males roam as a nomadic coalition (north to Manyelethi/Nkuhuma area and back); lone sister partnered with the Styx Male; 2 older males in Kruger NP",
+   "first_mentioned": "2021-08-04",
+   "last_mentioned": "2025-08-17",
+   "origin_summary": "Litter of 12 (6 males, 6 females) born to the Ntsevu lionesses, sired by the Birmingham Males, mid-2018 (plus a June-2019 litter of 4 from which a male and the breakaway female derive). Left the pride in 2021 and were scattered by the Ndzhenga arrival. Four older females rejoined their mothers (-> Kambula daughters); two younger females stayed with the brothers, later one (the 'breakaway female').",
+   "splits_and_takeovers": [
+    {
+     "date": "2021-08-04",
+     "event": "11 sub-adults leave pride (males transitioning to nomads, females tagging along).",
+     "source_url": "https://blog.londolozi.com/2021/08/04/whats-happening-with-the-ntsevu-prides-sub-adults/"
+    },
+    {
+     "date": "2022-05-23",
+     "event": "Six young males split into groups of three; Ndzhenga Males' arrival (Nov 2021) forced them southwest; sub-adult females largely rejoin mothers.",
+     "source_url": "https://blog.londolozi.com/2022/05/23/the-ntsevu-sub-adult-males-as-a-coalition/"
+    },
+    {
+     "date": "2022-08-10",
+     "event": "Original 12 split: oldest male in Kruger NP, second oldest between Kruger and Sabi Sand, four males + two younger females roam Sabi Sand; four older females rejoined mothers.",
+     "source_url": "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/"
+    },
+    {
+     "date": "2023-06-19",
+     "event": "Six young males have all left the pride; two went NE into Kruger; the other four plus one 2019-born female roam the south-west.",
+     "source_url": "https://blog.londolozi.com/2023/06/19/the-ndzhenga-coalition/"
+    },
+    {
+     "date": "2024-09-09",
+     "event": "The four males move north to the Manyelethi reserve and mate with Nkuhuma Pride lionesses.",
+     "source_url": "https://blog.londolozi.com/2024/09/09/where-are-the-ntsevu-males/"
+    },
+    {
+     "date": "2024-10-02",
+     "event": "Lone sister now with the Styx Young Male; brothers in the north.",
+     "source_url": "https://blog.londolozi.com/2024/10/02/where-is-the-ntsevu-breakaway-female/"
+    },
+    {
+     "date": "2025-01-21",
+     "event": "Largest male injured Nov 2024 (possible run-in with Mantimahle Males) and temporarily separated; all four reunite by 26 Jan 2025.",
+     "source_url": "https://blog.londolozi.com/2025/01/21/the-ntsevu-breakaways-on-the-brink-of-dominance/"
+    }
+   ],
+   "notes": "Blog still calls them the 'Ntsevu Breakaways' in Jan 2025 and 'Kambula Males' in Nov 2024-Jul 2025."
+  },
+  {
+   "name": "Mhangeni Pride",
+   "aliases": [
+    "Mangheni / Mungheni / Mhageni Pride (spellings)",
+    "Munghen Pride"
+   ],
+   "status": "active in the west of the Sabi Sand (Plains Camp Males, later Nkumati Coalition)",
+   "first_mentioned": "2015-10-06",
+   "last_mentioned": "2026-02-12",
+   "origin_summary": "Breakaway of the Tsalala Pride: the Original Tailless Female took four sub-adult (2009-born) lionesses, granddaughters not her own daughters, away from the Majingilane in 2010; they became the Mhangeni Pride. Context entry: only the lines that explain Ntsevu parentage and Mhangeni interactions are captured here.",
+   "splits_and_takeovers": [
+    {
+     "date": "2016-04-18",
+     "event": "Origin story: breakaway from Tsalala Pride six years earlier (2010).",
+     "source_url": "https://blog.londolozi.com/2016/04/18/lion-update-fate-of-the-tsalala-pride/"
+    },
+    {
+     "date": "2018-09-29",
+     "event": "Mhangeni Pride raises second batch; 12 cubs (9 male, 3 female) born between Oct 2015 and mid-2016; sub-adults pushed out end of 2017.",
+     "source_url": "https://blog.londolozi.com/2018/09/29/mhangeni-pride-update-will-we-be-seeing-more-lions-soon/"
+    },
+    {
+     "date": "2019-12-02",
+     "event": "Othawa Male (~7 years old per post, but born early 2015 elsewhere) joins pride and becomes its dominant male.",
+     "source_url": "https://blog.londolozi.com/2019/12/02/update-on-the-mhangeni-pride/"
+    },
+    {
+     "date": "2021-11-25",
+     "event": "Othawa Male dies (killed by Birmingham Males); Plains Camp Males later take over the Mhangeni females.",
+     "source_url": "https://blog.londolozi.com/2021/11/25/for-one-to-rise-another-must-fall-part-1-of-lion-behaviour-through-a-take-over/"
+    },
+    {
+     "date": "2026-02-09",
+     "event": "Nkumati Coalition (Nkuhuma + Talamati Males) acquire mating rights to the Mhangeni Pride.",
+     "source_url": "https://blog.londolozi.com/2026/02/09/the-rise-of-the-nkumati-coalition/"
+    }
+   ],
+   "notes": "Parent pride of the Ntsevu: 'Mhangeni females (mothers of Ntsevu females)'."
+  },
+  {
+   "name": "Tsalala Pride",
+   "aliases": [
+    "Two and Seven Pride",
+    "Two and Four Pride",
+    "One and Two"
+   ],
+   "status": "reduced to a lone female (context entry; other agents cover this group in detail)",
+   "first_mentioned": "2015-09-28",
+   "last_mentioned": "2025-11-25",
+   "origin_summary": "Formed by two females breaking away from the Castleton Pride in 1998. Root of the Mhangeni lineage (and thus of the Ntsevu/Kambula lions): the Original Tailless Female -> Tsalala Sisters (Tailed and New Tailless females, born Dec 2002) -> the four 2009-born Mhangeni foundress lionesses.",
+   "splits_and_takeovers": [
+    {
+     "date": "2021-12-07",
+     "event": "Full pride history: Mhangeni Pride formed by the Original Tailless Female and four sub-adult lionesses (2009) after Majingilane arrival (2010), final separation Jan 2012.",
+     "source_url": "https://blog.londolozi.com/2021/12/07/the-legacy-of-the-tsalala-pride/"
+    }
+   ],
+   "notes": "Only included to anchor the Mhangeni/Ntsevu family tree."
+  },
+  {
+   "name": "Msuthlu Pride",
+   "aliases": [
+    "Talamati Breakaway Pride (former name, per 2025-10-05)"
+   ],
+   "status": "active; one of the most-viewed prides on Londolozi 2025-26, now fragmenting (Sep 2026)",
+   "first_mentioned": "2025-09-22",
+   "last_mentioned": "2026-09-01",
+   "origin_summary": "Described as 'formerly the Talamati Breakaway Pride' (2025-10-05). First met in 2022 in the north of the reserve (per 2026-04-04) and later settled in the far south of the Sabi Sand under the Gijima Males. Originally 4 adult lionesses and their offspring, 14 lions in total, younger members sired by the Gijima Males.",
+   "splits_and_takeovers": [
+    {
+     "date": "2025-09-22",
+     "event": "Gijima Males named as dominant over the Styx, Southern and Msuthlu prides; pride starts following them north.",
+     "source_url": "https://blog.londolozi.com/2025/09/22/a-northward-shift-by-the-gijima-male-lions/"
+    },
+    {
+     "date": "2025-10-08",
+     "event": "Furthest north yet; kill a buffalo with the Gijima Males; Gijima Males named as fathers of the pride's cubs.",
+     "source_url": "https://blog.londolozi.com/2025/10/08/persistence-pays-off-for-the-msuthlu-pride-of-lions/"
+    },
+    {
+     "date": "2026-04-04",
+     "event": "With the Ndzhenga and Gijima males swapping territory, Msuthlu become the 'resident pride roaming central Londolozi': 3 adult lionesses, 2 sub-adult males, 2 sub-adult females and 3 younger cubs seen most often.",
+     "source_url": "https://blog.londolozi.com/2026/04/04/whats-happened-to-the-msuthlu-pride/"
+    },
+    {
+     "date": "2026-08-13",
+     "event": "Adult females come into heat and mate with the N'waswitsaka (Nwaswitshaka) Males in the south; 11 known members.",
+     "source_url": "https://blog.londolozi.com/2026/08/13/scrambled-eggs-on-the-menu-for-the-msuthlu-pride/"
+    },
+    {
+     "date": "2026-09-01",
+     "event": "Pride no longer cohesive; Gijima Males moved north, Nwaswitshaka Males prominent in south; they harass a young Msuthlu male while two adult females defend him.",
+     "source_url": "https://blog.londolozi.com/2026/09/01/when-lions-change-sides-the-uncertain-future-of-the-msuthlu-pride/"
+    }
+   ],
+   "notes": "Exact link to the Talamati Pride (broke from Nkuhuma 2007) is only stated as 'formerly the Talamati Breakaway Pride' in one post; see open_questions."
+  },
+  {
+   "name": "Styx Pride",
+   "aliases": [
+    "Styx lionesses"
+   ],
+   "status": "active in the south (Gijima/Ndzhenga territory)",
+   "first_mentioned": "2015-12-14",
+   "last_mentioned": "2025-09-22",
+   "origin_summary": "Old pride of 14 lions at Londolozi in 2004 (Shaws Males took over Styx and Sparta prides in 2006). 2018-2020: visited Londolozi's north from the north-east, semi-nomadic by Aug 2020 after losing male cover. Later (2022) described as '3 adults and 11 cubs' established south of Londolozi, covered by the Ndzhenga Males who sired litters with them; by 2025 covered by the Gijima Males.",
+   "splits_and_takeovers": [
+    {
+     "date": "2020-08-18",
+     "event": "Styx pride semi-vagrant, without a dominant male; joined by one Nkuhuma young male.",
+     "source_url": "https://blog.londolozi.com/2020/08/18/londolozis-lions-current-status/"
+    },
+    {
+     "date": "2022-08-10",
+     "event": "Styx Pride: 3 adults, 11 cubs; moved south into old Ndzhenga territory, covered by Ndzhenga Males.",
+     "source_url": "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/"
+    },
+    {
+     "date": "2022-11-10",
+     "event": "Ndzhenga Males had sired several litters with the Styx Pride before moving north.",
+     "source_url": "https://blog.londolozi.com/2022/11/10/the-dominant-ndhzenga-coalition/"
+    },
+    {
+     "date": "2025-09-22",
+     "event": "Now dominated by the Gijima Males (along with Southern and Msuthlu prides).",
+     "source_url": "https://blog.londolozi.com/2025/09/22/a-northward-shift-by-the-gijima-male-lions/"
+    }
+   ],
+   "notes": "'Styx Male' (b. 2021) is a son of the Ndzhenga Males and a Styx-pride litter. Separate from the older 'Styx Males' coalition of 2014-15 and 'Styx Young Male (b.2016)' who broke away with an Nkuhuma young male."
+  },
+  {
+   "name": "Southern Pride",
+   "aliases": [
+    "Southern pride"
+   ],
+   "status": "nearly extinct by 2021 (one adult female + 2 cubs); 2025 new offspring sired by Gijima Males",
+   "first_mentioned": "2019-09-05",
+   "last_mentioned": "2025-09-22",
+   "origin_summary": "Once the largest pride in the Sabi Sand (>10 adults), ranging across central-southern Sabi Sands. By April 2021 only one adult female and a wounded sub-adult remained on Londolozi's south; the sub-adult believed to have died soon after; adult female raising two cubs (~6 months old in Apr 2021).",
+   "splits_and_takeovers": [
+    {
+     "date": "2021-04-06",
+     "event": "Pride reduced to a single adult female; reported with 2 cubs.",
+     "source_url": "https://blog.londolozi.com/2021/04/06/a-forgotten-sighting-of-the-southern-pride/"
+    },
+    {
+     "date": "2025-06-12",
+     "event": "Gijima Males protecting new offspring within the Southern Pride.",
+     "source_url": "https://blog.londolozi.com/2025/06/12/an-update-on-the-gijima-males/"
+    },
+    {
+     "date": "2025-09-22",
+     "event": "Gijima Males dominant over the Southern Pride.",
+     "source_url": "https://blog.londolozi.com/2025/09/22/a-northward-shift-by-the-gijima-male-lions/"
+    }
+   ],
+   "notes": "Only 3 local posts mention it."
+  },
+  {
+   "name": "Sparta Pride",
+   "aliases": [],
+   "status": "context entry: reduced to two lionesses and cubs by 2017; displaced by the Ntsevu",
+   "first_mentioned": "2015-11-17",
+   "last_mentioned": "2020-02-19",
+   "origin_summary": "Iconic Londolozi pride (>20 lions in 2014) displaced from the central/south-east by the Matshipiri-aligned period and then by the Ntsevu Pride, which killed one Sparta lioness in Mar-Apr 2017.",
+   "splits_and_takeovers": [
+    {
+     "date": "2017-04-03",
+     "event": "A Sparta lioness is killed by the six Mhangeni Breakaway (Ntsevu) lionesses.",
+     "source_url": "https://blog.londolozi.com/2017/04/03/sparta-lioness-has-been-killed/"
+    },
+    {
+     "date": "2017-07-03",
+     "event": "Ntsevu squeezed into the Sparta pride's old territory; Sparta reduced to two adults + 3 cubs, semi-nomadic.",
+     "source_url": "https://blog.londolozi.com/2017/07/03/can-a-lion-pride-die/"
+    }
+   ],
+   "notes": "Included only for Ntsevu-related events."
+  },
+  {
+   "name": "Talamati Pride",
+   "aliases": [
+    "Nkuhuma Breakaway Pride (2007-2011)"
+   ],
+   "status": "context entry",
+   "first_mentioned": "2022-07-25",
+   "last_mentioned": "2023-09-04",
+   "origin_summary": "Broke away from the Nkuhuma Pride in 2007; arrived on Londolozi April 2022 (2 adult lionesses, 2 young males, 4 females, Dark-maned Northern Avoca Male). Selati Males ruled it 2015-2019 and sired two daughters. The Msuthlu Pride is later described as the 'Talamati Breakaway Pride'.",
+   "splits_and_takeovers": [
+    {
+     "date": "2022-07-25",
+     "event": "Full origin story of the Talamati Pride incl. Matimba, Selati and Northern Avoca eras.",
+     "source_url": "https://blog.londolozi.com/2022/07/25/the-talamati-pride-who-are-they/"
+    }
+   ],
+   "notes": "Included only to explain the Selati Males and the Msuthlu naming."
+  },
+  {
+   "name": "Othawa Pride",
+   "aliases": [
+    "Othawa lionesses",
+    "Ottawa lionesses"
+   ],
+   "status": "unknown; neighbouring western pride (2026: 'neighbouring Othawa and Ximungwe Prides')",
+   "first_mentioned": "2018-05-07",
+   "last_mentioned": "2026-02-12",
+   "origin_summary": "Only known as a western pride whose lionesses were mated by the Matimba Males in 2018 and later neighbours of the Mhangeni. The lone 'Othawa Male' shares the geographic name, but the posts do not explicitly say he was born into this pride.",
+   "splits_and_takeovers": [],
+   "notes": "Very thin evidence."
+  }
+ ],
+ "individuals": [
+  {
+   "id": "original-tailless-female",
+   "label": "Original Tailless Female (Tsalala)",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Tsalala Pride",
+   "birth_year": 1998,
+   "birth_note": "Born 1998 to one of the two females who broke from the Castleton Pride (the 'Two and Seven' cubs); sole survivor of the seven.",
+   "death_year": 2013,
+   "fate": "Mauled by the Mhangeni lionesses (her granddaughters) at a zebra carcass in 2013; body found at Marthly Pools (suspected, 'mauled by the females').",
+   "mother_id_or_label": "Unnamed Castleton-breakaway female",
+   "father_or_sire_label": "West Street Males (father of the Two-and-Seven cubs)",
+   "offspring_labels": [
+    "Tsalala Sisters (Tailed and New Tailless females, born Dec 2002)",
+    "Cubs of 2005-2012 incl. her 12th cub in Aug 2012"
+   ],
+   "sibling_labels": [],
+   "notes": "Lost her tail to hyenas in 2005. Led four 2009-born grand-daughters away from the Majingilane (2010); they became the Mhangeni Pride. Context only.",
+   "source_urls": [
+    "https://blog.londolozi.com/2021/12/07/the-legacy-of-the-tsalala-pride/",
+    "https://blog.londolozi.com/2016/04/30/what-next-for-the-tsalala-pride/",
+    "https://blog.londolozi.com/2018/05/30/tailless-lioness-badly-injured/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "tsalala-sister-tailed",
+   "label": "Tsalala Sister: 'Tailed Female'",
+   "aliases": [
+    "Tailed lioness"
+   ],
+   "sex": "F",
+   "pride": "Tsalala Pride",
+   "birth_year": 2002,
+   "birth_note": "Born Dec 2002 at Ximpalapala Koppie, sired by the Marthly Males.",
+   "death_year": 2018,
+   "fate": "Died early 2018 near Ximpalapala Koppie after the Tsalala pride fed on a dead elephant; condition had been deteriorating at ~15.",
+   "mother_id_or_label": "Original Tailless Female",
+   "father_or_sire_label": "Marthly Males",
+   "offspring_labels": [
+    "Two of the four 2009-born Mhangeni foundress lionesses (twin daughters of the sisters, Mapogo-sired)",
+    "2013 litter (1 female, 3 males)",
+    "2016 litter of 2 females"
+   ],
+   "sibling_labels": [
+    "New Tailless Female (sister)"
+   ],
+   "notes": "Which sister mothered which 2009 cubs is not stated.",
+   "source_urls": [
+    "https://blog.londolozi.com/2021/12/07/the-legacy-of-the-tsalala-pride/",
+    "https://blog.londolozi.com/2018/05/30/tailless-lioness-badly-injured/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "tsalala-sister-new-tailless",
+   "label": "Tsalala Sister: 'New Tailless Female'",
+   "aliases": [
+    "New Tailless Female",
+    "Tailless lioness (2011-2018)"
+   ],
+   "sex": "F",
+   "pride": "Tsalala Pride",
+   "birth_year": 2002,
+   "birth_note": "Born Dec 2002; lost her tail to hyenas on 1 Nov 2011.",
+   "death_year": 2018,
+   "fate": "Seriously injured ~May 2018 by the Ntsevu lionesses (her great-nieces / 'granddaughters' in the blog's wording); died at Marthly Pools within metres of where her mother died (per 2021-12-07).",
+   "mother_id_or_label": "Original Tailless Female",
+   "father_or_sire_label": "Marthly Males",
+   "offspring_labels": [
+    "Two of the four 2009-born Mhangeni foundress lionesses (twin daughters of the sisters, Mapogo-sired)",
+    "2014 litter (1F, 3M)",
+    "2017 cubs"
+   ],
+   "sibling_labels": [
+    "Tailed Female (sister)"
+   ],
+   "notes": "2018-05-30 says she is the Tailed female's sister and that her injuries came from the Ntsevu lionesses, 'her granddaughters' (consistent with Ntsevu = daughters of the Mhangeni foundresses, who are daughters of the two Tsalala Sisters).",
+   "source_urls": [
+    "https://blog.londolozi.com/2021/12/07/the-legacy-of-the-tsalala-pride/",
+    "https://blog.londolozi.com/2018/05/30/tailless-lioness-badly-injured/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "mhangeni-founders",
+   "label": "Mhangeni foundress lionesses (4 originals, born 2009)",
+   "aliases": [
+    "Original Mhangeni lionesses",
+    "Four Mhangeni females"
+   ],
+   "sex": "F",
+   "pride": "Mhangeni Pride",
+   "birth_year": 2009,
+   "birth_note": "Born 2009 at Ximpalapala/Southern Cross area to the two Tsalala Sisters (two cubs each), sired by the Mapogo Males.",
+   "death_year": null,
+   "fate": "Still alive in 2024 (two oldest, ~15 yrs, one toothless); some deaths over time (3 adults by Dec 2019, 2 originals by 2022-24).",
+   "mother_id_or_label": "Tsalala Sisters (Tailed + New Tailless)",
+   "father_or_sire_label": "Mapogo Males (Kinky-tail and Satan)",
+   "offspring_labels": [
+    "First Mhangeni litter (2013): 6 daughters (= Ntsevu founding lionesses) + 3 sons (Mhangeni males 2013)",
+    "Second litter 2015/16: 12 cubs (9M/3F), sired by the Majingilane",
+    "Later litters sired by Matimba/Birmingham/Othawa/Plains Camp/Nkumati"
+   ],
+   "sibling_labels": [],
+   "notes": "Number of surviving founders: 4 adults (2015), 3 adults (2018-19, said to be '11 years old', born 2008 per 2019-12-02), 2 original lionesses in 2022-24 (aged ~15). Mated with Majingilane (2013), Birmingham (2018), Othawa Male (2019-21), Plains Camp (2021+). One original female left the pride in 2022 and briefly paired with the lone Tsalala Female.",
+   "source_urls": [
+    "https://blog.londolozi.com/2021/12/07/the-legacy-of-the-tsalala-pride/",
+    "https://blog.londolozi.com/2022/09/19/the-tsalala-pride-the-next-chapter/",
+    "https://blog.londolozi.com/2024/06/10/respect-for-the-elders-the-original-mhangeni-lionesses/",
+    "https://blog.londolozi.com/2018/11/08/how-many-cubs-does-the-ntsevu-pride-have/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "mhangeni-males-2013",
+   "label": "Mhangeni males of the 2013 litter (three brothers of the Ntsevu lionesses)",
+   "aliases": [
+    "Three young males of the Mhangeni breakaways"
+   ],
+   "sex": "M",
+   "pride": "Mhangeni Pride",
+   "birth_year": 2013,
+   "birth_note": "Born 2013 in the first Mhangeni litter.",
+   "death_year": null,
+   "fate": "Unknown; left with / after the sisters ~2016; 'went obscure' (2018-09-06). One Talamati male and a Sparta young male associated with them briefly.",
+   "mother_id_or_label": "Mhangeni foundress lionesses",
+   "father_or_sire_label": "Majingilane coalition",
+   "offspring_labels": [],
+   "sibling_labels": [
+    "Ntsevu founding lionesses (6 sisters)"
+   ],
+   "notes": "'Three young males had split off' from the six breakaway females in late 2016.",
+   "source_urls": [
+    "https://blog.londolozi.com/2016/08/20/lion-update-matimbas-mhangheni-breakaways-the-matshipiris/",
+    "https://blog.londolozi.com/2018/09/06/what-happens-to-young-male-lions/",
+    "https://blog.londolozi.com/2016/12/31/a-matter-of-pride-lions-into-2017/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "sparta-young-male-2012",
+   "label": "Sparta young male who joined the Mhangeni (2015)",
+   "aliases": [],
+   "sex": "M",
+   "pride": "Sparta Pride",
+   "birth_year": 2012,
+   "birth_note": "One of the three Sparta males of 2012 chased by the Majingilane on 16 Jul 2015.",
+   "death_year": null,
+   "fate": "Disappeared from the Mhangeni breakaways in late 2015 (fate unknown).",
+   "mother_id_or_label": "Sparta lioness",
+   "father_or_sire_label": "Majingilane",
+   "offspring_labels": [],
+   "sibling_labels": [
+    "Two Sparta brothers"
+   ],
+   "notes": "Attached to the Mhangeni, then to the Mhangeni breakaways.",
+   "source_urls": [
+    "https://blog.londolozi.com/2015/10/06/sparta-male-joins-mhangeni-pride/",
+    "https://blog.londolozi.com/2018/09/06/what-happens-to-young-male-lions/",
+    "https://blog.londolozi.com/2019/09/05/that-haunted-look-young-male-lions/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "talamati-young-male-2016",
+   "label": "Talamati young male with the Mhangeni breakaways (2016)",
+   "aliases": [],
+   "sex": "M",
+   "pride": "Talamati Pride",
+   "birth_year": null,
+   "birth_note": "Son of the Matimba Males (per 2016-08-20).",
+   "death_year": null,
+   "fate": "Left/unknown.",
+   "mother_id_or_label": "Talamati lioness",
+   "father_or_sire_label": "Matimba Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "Separated from his brothers by the Charleston males; tolerated by the Matimba and shadowed the breakaway females.",
+   "source_urls": [
+    "https://blog.londolozi.com/2016/08/20/lion-update-matimbas-mhangheni-breakaways-the-matshipiris/",
+    "https://blog.londolozi.com/2016/09/03/mhangeni-pride-more-cubs-than-last-time/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-founding-six",
+   "label": "Ntsevu founding lionesses (6, born 2013)",
+   "aliases": [
+    "Ntsevu lionesses",
+    "Six Ntsevu females",
+    "Mhangeni breakaway females"
+   ],
+   "sex": "F",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2013,
+   "birth_note": "Born Sept 2013 (first Mhangeni litter of 9-10 cubs; 6 females + 3 males survived).",
+   "death_year": null,
+   "fate": "Two original lionesses lost in early/mid-2023 (unknown circumstances); 4 originals by mid-2023: 3 in Ntsevu Pride + 1 in Kambula Pride; at least one barren.",
+   "mother_id_or_label": "Mhangeni foundress lionesses",
+   "father_or_sire_label": "Majingilane coalition",
+   "offspring_labels": [
+    "Birmingham-sired litters 2018-2020 (12-15 cubs)",
+    "Ndzhenga-sired litters 2021-2024",
+    "Gijima-sired litters 2025-26"
+   ],
+   "sibling_labels": [
+    "Mhangeni males 2013 (3 brothers)"
+   ],
+   "notes": "Independent from ~2015-16; named Ntsevu 2017. Individuals are not named; identified as 'the lioness at the back with pale fur and ridge on her nose' etc.",
+   "source_urls": [
+    "https://blog.londolozi.com/2017/04/29/mhangeni-breakaway-pride-renamed/",
+    "https://blog.londolozi.com/2018/05/20/lionesses-mate-with-birmingham-males/",
+    "https://blog.londolozi.com/2018/11/08/how-many-cubs-does-the-ntsevu-pride-have/",
+    "https://blog.londolozi.com/2019/11/23/the-ntsevu-pride-dynamics/",
+    "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-infertile-lioness",
+   "label": "Ntsevu lioness suspected infertile / 'barren' lioness",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2013,
+   "birth_note": "One of the founding six.",
+   "death_year": null,
+   "fate": "Alive in Aug 2024 as the 'barren godmother' of the Ntsevu cubs.",
+   "mother_id_or_label": "Mhangeni foundress lioness",
+   "father_or_sire_label": "Majingilane coalition",
+   "offspring_labels": [],
+   "sibling_labels": [
+    "Other Ntsevu founding lionesses"
+   ],
+   "notes": "2019-11/2020-03 posts: not pregnant despite repeated Birmingham mating; mated with the Othawa Male Mar 2020. 2020-08-18 reported she may have given birth to two cubs; 2024-08-15 says she has 'never been able to fall pregnant' - contradiction.",
+   "source_urls": [
+    "https://blog.londolozi.com/2020/03/24/ntsevu-lioness-mates-with-othawa-male/",
+    "https://blog.londolozi.com/2020/08/18/londolozis-lions-current-status/",
+    "https://blog.londolozi.com/2024/08/15/an-update-on-the-nstevu-pride/",
+    "https://blog.londolozi.com/2019/11/23/the-ntsevu-pride-dynamics/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-breakaway-mothers",
+   "label": "Ntsevu mothers who fled north in 2021 ('Ntsevu Two plus Two')",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2013,
+   "birth_note": "Two of the founding six.",
+   "death_year": null,
+   "fate": "Became the core of the new smaller 'Ntsevu Pride' (3 originals) by Mar 2024.",
+   "mother_id_or_label": "Mhangeni foundress lioness",
+   "father_or_sire_label": "Majingilane coalition",
+   "offspring_labels": [
+    "The last 4 Birmingham-sired cubs of Oct 2021 (2 survivors by mid-2022)",
+    "Ndzhenga-sired cubs Nov 2023 (3) and May 2024 (4)"
+   ],
+   "sibling_labels": [
+    "Other Ntsevu founding lionesses"
+   ],
+   "notes": "Fled the Ndzhenga arrival from Oct 2021 and came back 24 Mar 2022 with 4 cubs; 3 originals formed the Ntsevu faction.",
+   "source_urls": [
+    "https://blog.londolozi.com/2022/04/11/the-last-surviving-ntsevu-cubs-return-to-londolozi/",
+    "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/",
+    "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/",
+    "https://blog.londolozi.com/2024/08/15/an-update-on-the-nstevu-pride/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "kambula-matriarch-2013",
+   "label": "Kambula Pride's lone 2013-born lioness (eldest; mentor to the sub-adults)",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Kambula Pride",
+   "birth_year": 2013,
+   "birth_note": "One of the 2013 founding Ntsevu females.",
+   "death_year": null,
+   "fate": "Alive Mar 2026; left with 11 sub-adults towards Kruger NP (Nov 2025).",
+   "mother_id_or_label": "Mhangeni foundress lioness",
+   "father_or_sire_label": "Majingilane coalition",
+   "offspring_labels": [],
+   "sibling_labels": [
+    "Other 5 founding sisters"
+   ],
+   "notes": "2025-07-14: 'one of the founding lionesses was born in 2013, the others are from a 2018 litter.' 2025-08-19 / 2025-11-19: fifth lioness stayed with sub-adults as matriarch. Identity with the 2013-born lioness is inferred.",
+   "source_urls": [
+    "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/",
+    "https://blog.londolozi.com/2025/07/14/kambula-pride-of-lions-at-a-crossroads-what-lies-ahead-for-the-next-generation/",
+    "https://blog.londolozi.com/2025/08/19/a-pride-in-divide-an-update-on-the-kambula-pride-dynamics/",
+    "https://blog.londolozi.com/2025/11/19/the-latest-news-on-the-three-factions-of-the-kambula-pride/",
+    "https://blog.londolozi.com/2026/03/23/a-new-chapter-for-the-kambula-lionesses-2/"
+   ],
+   "confidence": "inferred"
+  },
+  {
+   "id": "ntsevu-2013-lionesses-lost-2023",
+   "label": "Two Ntsevu founding lionesses lost in 2023",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2013,
+   "birth_note": "Two of the six founders.",
+   "death_year": 2023,
+   "fate": "Died / lost in the first half of 2023 for unknown reasons (2023-07-19: one mother of 4 cubs and one with 5 cubs 'died').",
+   "mother_id_or_label": "Mhangeni foundress lioness",
+   "father_or_sire_label": "Majingilane coalition",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "2023-06-19 says two 2013 lionesses lost at 'beginning of 2023'; 2024-03-21 says 'mid-2023'.",
+   "source_urls": [
+    "https://blog.londolozi.com/2023/06/19/the-ndzhenga-coalition/",
+    "https://blog.londolozi.com/2023/07/19/high-hopes-for-the-next-generation-of-the-ntsevu-pride/",
+    "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-lioness-two-daughters-2023",
+   "label": "Ntsevu lioness with two daughters who bit her sister's cub (2023)",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2013,
+   "birth_note": "One of the original six.",
+   "death_year": null,
+   "fate": "Alive 2023.",
+   "mother_id_or_label": "Mhangeni foundress lioness",
+   "father_or_sire_label": "Majingilane coalition",
+   "offspring_labels": [
+    "Two female cubs (Ndzhenga-sired, 2023)"
+   ],
+   "sibling_labels": [],
+   "notes": "Kept cubs separate from the pride for months; seriously wounded a cub of her sister's litter (cub missing afterwards). A younger female seen with her may be a daughter from an earlier litter (inferred).",
+   "source_urls": [
+    "https://blog.londolozi.com/2023/07/05/the-dedication-of-a-mother-lioness/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-first-litters-2017-2018",
+   "label": "Early Ntsevu litters (2017-2018) - all failed",
+   "aliases": [],
+   "sex": "U",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2018,
+   "birth_note": "Litters in early 2017, Jan 2018, Apr 2018 (3 cubs).",
+   "death_year": 2018,
+   "fate": "No survivors: one litter killed by its sires (Birmingham), one killed by a female within the pride, others vanished.",
+   "mother_id_or_label": "Ntsevu founding lionesses",
+   "father_or_sire_label": "Birmingham Males (some); Majingilane/Matimba/Matshipiri (earlier)",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "2018-09-09: 'One litter was killed by the very males that sired them (Birmingham), and another litter was killed by a female within the pride.'",
+   "source_urls": [
+    "https://blog.londolozi.com/2017/11/06/londolozis-newest-pride/",
+    "https://blog.londolozi.com/2018/04/28/a-new-beginning/",
+    "https://blog.londolozi.com/2018/09/09/tiny-lion-cubs-on-londolozi/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-2018-litters",
+   "label": "Ntsevu 2018 sub-adults / cubs (first successful litters)",
+   "aliases": [
+    "Ntsevu Sub-Adults",
+    "Original 12 subadults (six males, six females)"
+   ],
+   "sex": "M+F",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2018,
+   "birth_note": "Born from ~Aug 2018 (litters of 3,3,5 and others; 15 cubs presumed, 11 seen by Nov 2019; counts vary); sired by the Birmingham Males.",
+   "death_year": null,
+   "fate": "11-12 survived to sub-adulthood (6 male, 5-6 female); later split into the Breakaway males and the Kambula daughters.",
+   "mother_id_or_label": "Ntsevu founding lionesses (5 of 6 gave birth)",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [
+    "Ntsevu Breakaway males (4)",
+    "Ntsevu breakaway female",
+    "Two older young males in Kruger NP",
+    "Kambula daughters (4-5 adult females)"
+   ],
+   "sibling_labels": [],
+   "notes": "2018-11-08: ~10-15 cubs; 2019-01-10: 13 cubs; 2019-11-23: 11 cubs (8M 3F est.) + June-2019 litter of 4; 2020-08-18: 13-14 sub-adults and cubs; 2022-08-03: 12 cubs; 2023-06-19: six males + six females born 2018-19.",
+   "source_urls": [
+    "https://blog.londolozi.com/2018/11/08/how-many-cubs-does-the-ntsevu-pride-have/",
+    "https://blog.londolozi.com/2019/01/10/the-ntsevu-pride-summer-lions/",
+    "https://blog.londolozi.com/2019/11/23/the-ntsevu-pride-dynamics/",
+    "https://blog.londolozi.com/2020/08/18/londolozis-lions-current-status/",
+    "https://blog.londolozi.com/2022/08/03/the-last-of-the-birmingham-males-lineage/",
+    "https://blog.londolozi.com/2023/06/19/the-ndzhenga-coalition/",
+    "https://blog.londolozi.com/2022/05/23/the-ntsevu-sub-adult-males-as-a-coalition/",
+    "https://blog.londolozi.com/2021/08/04/whats-happening-with-the-ntsevu-prides-sub-adults/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-breakaway-males-4",
+   "label": "Ntsevu Breakaway Males (4): the Ntsevu / Kambula Males",
+   "aliases": [
+    "Ntsevu Males",
+    "Kambula Males",
+    "Ntsevu/Kambula Males"
+   ],
+   "sex": "M",
+   "pride": "Ntsevu Breakaway Pride",
+   "birth_year": 2018,
+   "birth_note": "Three born 2018 and one male (with the female) born 2019 (2023-09-04).",
+   "death_year": null,
+   "fate": "Alive Aug 2025; roaming north/south-east; one (largest) injured Nov 2024 and rejoined Jan 2025.",
+   "mother_id_or_label": "Ntsevu founding lionesses",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [],
+   "sibling_labels": [
+    "Breakaway female (sister)",
+    "Two older males in Kruger"
+   ],
+   "notes": "Alias Kambula Males (Oct 2024-Jul 2025). Mated with Nkuhuma Pride lionesses in the north (Sept 2024).",
+   "source_urls": [
+    "https://blog.londolozi.com/2023/09/04/update-on-the-lions-of-londolozi-part-2/",
+    "https://blog.londolozi.com/2024/09/09/where-are-the-ntsevu-males/",
+    "https://blog.londolozi.com/2024/10/27/three-new-coalitions-one-territory-whats-next-for-londolozis-lions-virtual-safari-242/",
+    "https://blog.londolozi.com/2024/11/11/heartbreaking-news-on-the-tsalala-female/",
+    "https://blog.londolozi.com/2025/01/21/the-ntsevu-breakaways-on-the-brink-of-dominance/",
+    "https://blog.londolozi.com/2025/01/26/unbelievable-week-of-cheetah-viewing-and-the-ntsevu-males-are-back-together-virtual-safari-255/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-breakaway-female",
+   "label": "Ntsevu Breakaway female (the 'Kambula Breakaway lioness')",
+   "aliases": [
+    "Kambula Breakaway Lioness",
+    "Ntsevu Young Female"
+   ],
+   "sex": "F",
+   "pride": "Ntsevu Breakaway Pride",
+   "birth_year": 2019,
+   "birth_note": "Born 2019 (2023-09-04).",
+   "death_year": null,
+   "fate": "Alive Apr 2026, paired with the Styx Male.",
+   "mother_id_or_label": "Ntsevu founding lionesses",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [],
+   "sibling_labels": [
+    "Ntsevu Breakaway males (brothers)"
+   ],
+   "notes": "Separated from brothers by Oct 2024; companion of the Styx Male (Oct 2024-Apr 2026) hunting buffalo; 2025-06-12 and 2025-08-17 call her the 'Kambula Breakaway Lioness'. No cubs reported.",
+   "source_urls": [
+    "https://blog.londolozi.com/2023/09/04/update-on-the-lions-of-londolozi-part-2/",
+    "https://blog.londolozi.com/2024/10/02/where-is-the-ntsevu-breakaway-female/",
+    "https://blog.londolozi.com/2025/01/21/the-ntsevu-breakaways-on-the-brink-of-dominance/",
+    "https://blog.londolozi.com/2025/06/12/an-update-on-the-gijima-males/",
+    "https://blog.londolozi.com/2025/08/17/chaos-on-the-airstrip-gijima-males-rise-as-ndzhengas-fade-virtual-safari-284/",
+    "https://blog.londolozi.com/2026/04/02/the-how-and-why-of-male-lion-coalitions/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-older-males-kruger",
+   "label": "Two older Ntsevu young males (went to Kruger NP)",
+   "aliases": [],
+   "sex": "M",
+   "pride": "Ntsevu Breakaway Pride",
+   "birth_year": 2018,
+   "birth_note": "Oldest of the 6 males.",
+   "death_year": null,
+   "fate": "Moved to / between Kruger NP and Sabi Sand by Aug 2022; two in Kruger by mid-2023.",
+   "mother_id_or_label": "Ntsevu founding lionesses",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [],
+   "sibling_labels": [
+    "Breakaway males"
+   ],
+   "notes": "'Oldest young male spending time in Kruger; second oldest bouncing between Kruger and Sabi Sands.'",
+   "source_urls": [
+    "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/",
+    "https://blog.londolozi.com/2023/06/19/the-ndzhenga-coalition/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "kambula-daughters-2018",
+   "label": "Kambula daughters (born 2018): 4-5 adult lionesses of the Kambula Pride",
+   "aliases": [
+    "Kambula Lionesses"
+   ],
+   "sex": "F",
+   "pride": "Kambula Pride",
+   "birth_year": 2018,
+   "birth_note": "Born mid-2018, Birmingham-sired; rejoined their mothers in 2022.",
+   "death_year": null,
+   "fate": "Alive 2026; two raising Ndzhenga-sired cubs, two Gijima-sired.",
+   "mother_id_or_label": "Ntsevu founding lionesses",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [
+    "Ndzhenga-sired cubs (2022-23, 2025)",
+    "Gijima-sired cubs (2025-26)"
+   ],
+   "sibling_labels": [
+    "Ntsevu Breakaway Males"
+   ],
+   "notes": "Count disagrees: 2024-03-21 'five female offspring'; 2024-04-11 five lionesses in total; 2025-01-21 'four females from the same litter'; 2025-07-14 one 2013-born + 2018 litter = five adult lionesses.",
+   "source_urls": [
+    "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/",
+    "https://blog.londolozi.com/2024/04/11/my-first-sighting-of-the-newly-named-kambula-pride/",
+    "https://blog.londolozi.com/2025/01/21/the-ntsevu-breakaways-on-the-brink-of-dominance/",
+    "https://blog.londolozi.com/2025/07/14/kambula-pride-of-lions-at-a-crossroads-what-lies-ahead-for-the-next-generation/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-cubs-2019-june",
+   "label": "Ntsevu litter of four (June 2019)",
+   "aliases": [],
+   "sex": "M+F",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2019,
+   "birth_note": "Born June 2019; late litter.",
+   "death_year": null,
+   "fate": "Presumably part of the sub-adults; one male + the female later in the breakaway group.",
+   "mother_id_or_label": "A Ntsevu lioness",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "2019-11-23: 'a late litter of four cubs born in June 2019'; inferred that the 2019-born male and female of the breakaway group derive from it.",
+   "source_urls": [
+    "https://blog.londolozi.com/2019/11/23/the-ntsevu-pride-dynamics/",
+    "https://blog.londolozi.com/2023/09/04/update-on-the-lions-of-londolozi-part-2/"
+   ],
+   "confidence": "inferred"
+  },
+  {
+   "id": "ntsevu-cubs-2020-sept",
+   "label": "Ntsevu newest cub (Aug-Oct 2020)",
+   "aliases": [],
+   "sex": "U",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2020,
+   "birth_note": "Less than 8 weeks old on 22 Oct 2020; also 'two cubs' reported Aug 2020.",
+   "death_year": null,
+   "fate": "Unknown.",
+   "mother_id_or_label": "A Ntsevu lioness",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "May be the child of the formerly 'infertile' lioness.",
+   "source_urls": [
+    "https://blog.londolozi.com/2020/08/18/londolozis-lions-current-status/",
+    "https://blog.londolozi.com/2020/10/22/an-encounter-with-the-ntsevu-prides-newest-member/",
+    "https://blog.londolozi.com/2020/09/12/are-the-northern-avoca-male-lions-looking-for-more-territory/"
+   ],
+   "confidence": "inferred"
+  },
+  {
+   "id": "ntsevu-cubs-2021",
+   "label": "Ntsevu cubs of April / October 2021 (Birmingham-sired)",
+   "aliases": [],
+   "sex": "M+F",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2021,
+   "birth_note": "April 2021: litter of 5 (found 7 Apr 2021); Oct 2021: more litters; 11 cubs in total at Dec 2021-Mar 2022.",
+   "death_year": 2022,
+   "fate": "7 of 11 lost after the Ndzhenga arrival (Nov 2021); 4 survivors Mar 2022; 2 left by Aug 2022.",
+   "mother_id_or_label": "Ntsevu founding lionesses (incl. the 'Ntsevu Two')",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "2022-04-11: 'last four cubs of the Birmingham Coalition'; 2022-08-03: youngest lost, another lost, 2 left. 2022-01-10 describes April-born cubs of 5 with only 3 left; dating of litters differs among posts.",
+   "source_urls": [
+    "https://blog.londolozi.com/2021/04/07/the-newest-additions-to-the-ntsevu-pride/",
+    "https://blog.londolozi.com/2021/06/15/a-morning-spent-with-the-newest-lion-cubs/",
+    "https://blog.londolozi.com/2022/01/10/tactics-in-managing-a-take-over-part-2-of-lion-behaviour-through-a-take-over/",
+    "https://blog.londolozi.com/2022/04/11/the-last-surviving-ntsevu-cubs-return-to-londolozi/",
+    "https://blog.londolozi.com/2022/08/03/the-last-of-the-birmingham-males-lineage/",
+    "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "last-birmingham-cubs",
+   "label": "Last two surviving Birmingham-sired Ntsevu cubs (2021 litter)",
+   "aliases": [],
+   "sex": "U",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2021,
+   "birth_note": "Born ~Oct 2021 (partly).",
+   "death_year": null,
+   "fate": "Still with 'Ntsevu Two' in Nov 2022; one sub-adult in 2024 caption 'two remaining youngsters'.",
+   "mother_id_or_label": "Ntsevu Two (breakaway mothers)",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "Names unspecified.",
+   "source_urls": [
+    "https://blog.londolozi.com/2022/08/03/the-last-of-the-birmingham-males-lineage/",
+    "https://blog.londolozi.com/2022/11/21/the-tsalala-pride-another-milestone/",
+    "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-cubs-ndzhenga-2022-23",
+   "label": "Ndzhenga-sired Ntsevu/Kambula cubs of Nov 2022 - Apr 2023 (the 'Kambula sub-adults')",
+   "aliases": [
+    "Kambula sub-adults",
+    "Kambula cubs 2023"
+   ],
+   "sex": "M+F",
+   "pride": "Kambula Pride",
+   "birth_year": 2023,
+   "birth_note": "21-24 cubs born Nov 2022 - Apr 2023 (litters of 3, 5, etc.); eight Ntsevu lionesses gave birth; 12 left by Jul 2023 (>=5 F, 8 M?), 13 cubs in Apr 2024 and 12 sub-adults (8M/4F) in Feb 2025; 11 (7M/4F) by Jul 2025.",
+   "death_year": null,
+   "fate": "11 sub-adults travelled with the eldest lioness into the Kruger NP side in late 2025; one young male killed by the Gijima Males in Nov 2025 (counts contradictory).",
+   "mother_id_or_label": "Ntsevu founding lionesses + Kambula daughters",
+   "father_or_sire_label": "Ndzhenga Males (two surviving)",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "Count details: 2023-06-19 '21 cubs...12 remain'; 2023-07-19 '24 cubs...12 to 16 remain; at least five F and eight M'; 2024-04-11 '13 cubs'; 2025-02-20 '12 subadults, 8M 4F'; 2025-07-14 '11 sub-adults, 7M 4F'.",
+   "source_urls": [
+    "https://blog.londolozi.com/2023/02/14/incredible-lion-news-there-is-more-than-one-litter-of-lion-cubs-on-londolozi/",
+    "https://blog.londolozi.com/2023/06/19/the-ndzhenga-coalition/",
+    "https://blog.londolozi.com/2023/07/19/high-hopes-for-the-next-generation-of-the-ntsevu-pride/",
+    "https://blog.londolozi.com/2024/04/11/my-first-sighting-of-the-newly-named-kambula-pride/",
+    "https://blog.londolozi.com/2025/02/20/changes-on-the-horizon-an-update-on-the-kambula-pride/",
+    "https://blog.londolozi.com/2025/07/14/kambula-pride-of-lions-at-a-crossroads-what-lies-ahead-for-the-next-generation/",
+    "https://blog.londolozi.com/2025/11/19/the-latest-news-on-the-three-factions-of-the-kambula-pride/",
+    "https://blog.londolozi.com/2026/03/23/a-new-chapter-for-the-kambula-lionesses-2/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "kambula-subadult-male-killed",
+   "label": "Kambula sub-adult male killed by Gijima Males",
+   "aliases": [],
+   "sex": "M",
+   "pride": "Kambula Pride",
+   "birth_year": 2022,
+   "birth_note": "Born mid-2022 to early 2023.",
+   "death_year": 2025,
+   "fate": "Killed by the Gijima Males during their takeover (autumn 2025); 'caught by surprise'.",
+   "mother_id_or_label": "A Kambula lioness",
+   "father_or_sire_label": "Ndzhenga Males",
+   "offspring_labels": [],
+   "sibling_labels": [
+    "Other Kambula sub-adults"
+   ],
+   "notes": "The blog still lists 7 males after the death, so the count conflicts.",
+   "source_urls": [
+    "https://blog.londolozi.com/2025/11/19/the-latest-news-on-the-three-factions-of-the-kambula-pride/",
+    "https://blog.londolozi.com/2025/11/20/the-gijima-male-lions-push-north-of-the-river/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "ntsevu-cubs-2023-24",
+   "label": "Ndzhenga-sired Ntsevu Pride cubs (Nov 2023 trio; May 2024 four)",
+   "aliases": [],
+   "sex": "M+F",
+   "pride": "Ntsevu Pride",
+   "birth_year": 2023,
+   "birth_note": "Trio (1M,2F) born Nov 2023 (2024-08-15) or early Aug 2023 (2023-12-17, first seen Oct 2023); four (1M,3F) born May 2024.",
+   "death_year": null,
+   "fate": "Four-cub litter lost (Apr 2025); trio ~1y4m old in Apr 2025 and 'three cubs' accompanying the Ntsevu Pride north in Nov 2025.",
+   "mother_id_or_label": "Ntsevu (original) lionesses",
+   "father_or_sire_label": "Ndzhenga Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "Born in northern Mala Mala/Sand River. A sub-adult male with the 3 lionesses in Jun 2026 may be the Nov 2023 male (inferred).",
+   "source_urls": [
+    "https://blog.londolozi.com/2023/12/17/meet-the-newest-members-of-the-ntsevu-pride-virtual-safari-197/",
+    "https://blog.londolozi.com/2024/08/15/an-update-on-the-nstevu-pride/",
+    "https://blog.londolozi.com/2025/04/28/lions-along-the-sand-river/",
+    "https://blog.londolozi.com/2025/11/20/the-gijima-male-lions-push-north-of-the-river/",
+    "https://blog.londolozi.com/2026/06/23/patience-rewarded-the-ntsevu-pride-hunts-zebra/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "kambula-cubs-2025-ndzhenga",
+   "label": "Six Ndzhenga-sired Kambula cubs of 2025 (litters of 4 and 2)",
+   "aliases": [],
+   "sex": "M+F",
+   "pride": "Kambula Pride",
+   "birth_year": 2025,
+   "birth_note": "Four cubs (3M,1F) born ~early Feb 2025 in thickets on the Maxabene near the Sand River confluence; second litter of two later in 2025 (six cubs total).",
+   "death_year": null,
+   "fate": "All 6 still alive as of 30 Dec 2025 and ~1 year old in Apr 2026 (one report 5 cubs on 31 Dec 2025).",
+   "mother_id_or_label": "Two of the Kambula lionesses",
+   "father_or_sire_label": "Ndzhenga Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "2025-03-12 confirmed '3 males and 1 female' of the four.",
+   "source_urls": [
+    "https://blog.londolozi.com/2025/03/12/unveiling-the-newest-generation-of-the-kambula-pride/",
+    "https://blog.londolozi.com/2025/07/14/kambula-pride-of-lions-at-a-crossroads-what-lies-ahead-for-the-next-generation/",
+    "https://blog.londolozi.com/2025/08/19/a-pride-in-divide-an-update-on-the-kambula-pride-dynamics/",
+    "https://blog.londolozi.com/2025/12/30/holding-the-line-the-kambula-lionesses-and-their-cubs/",
+    "https://blog.londolozi.com/2026/04/04/whats-happened-to-the-msuthlu-pride/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "kambula-cubs-2025-nov-gijima",
+   "label": "Kambula cubs of Nov 2025 (Gijima-sired)",
+   "aliases": [],
+   "sex": "U",
+   "pride": "Kambula Pride",
+   "birth_year": 2025,
+   "birth_note": "Four cubs found 14 Nov 2025 (a few days old), second pregnant lioness probably also gave birth.",
+   "death_year": 2025,
+   "fate": "Litter lost to the dark-maned Gijima Male by 28 Dec 2025 (infanticide); other litter status unclear.",
+   "mother_id_or_label": "Two of the Kambula lionesses",
+   "father_or_sire_label": "Gijima Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "Disagreement: 2025-12-28 says 'one Kambula female lost her litter to dark-maned Gijima male'; 2026-04-04 says both lost their newest cubs.",
+   "source_urls": [
+    "https://blog.londolozi.com/2025/11/16/new-life-for-the-kambula-pride-virtual-safari-297/",
+    "https://blog.londolozi.com/2025/11/27/a-new-chapter-for-the-kambula-lionesses/",
+    "https://blog.londolozi.com/2025/12/28/are-the-kambula-cubs-alive-virtual-safari-303/",
+    "https://blog.londolozi.com/2026/04/04/whats-happened-to-the-msuthlu-pride/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "kambula-cubs-2026",
+   "label": "Kambula cubs of April 2026 (Gijima-sired, 8 cubs)",
+   "aliases": [],
+   "sex": "U",
+   "pride": "Kambula Pride",
+   "birth_year": 2026,
+   "birth_note": "One cub ~10 days old seen 12 Apr 2026; eight cubs from two lionesses by Jul-Aug 2026.",
+   "death_year": null,
+   "fate": "All eight alive Aug 2026.",
+   "mother_id_or_label": "Two Kambula lionesses",
+   "father_or_sire_label": "Gijima Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "Dens shared on the Sand River.",
+   "source_urls": [
+    "https://blog.londolozi.com/2026/05/11/the-kambula-lioness-has-given-birth/",
+    "https://blog.londolozi.com/2026/07/26/legacy-is-a-long-game-virtual-safari-333/",
+    "https://blog.londolozi.com/2026/08/27/the-kambula-cubs-they-grow-up-so-fast/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "kambula-lionesses-gijima-pair",
+   "label": "Kambula lioness pair that stayed behind / mated with Gijima Males",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Kambula Pride",
+   "birth_year": 2018,
+   "birth_note": "Probably the 2018 daughters.",
+   "death_year": null,
+   "fate": "Alive Aug 2026.",
+   "mother_id_or_label": "Ntsevu founding lioness",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [
+    "Nov 2025 cubs (lost)",
+    "Apr 2026 cubs (8 with the other pair)"
+   ],
+   "sibling_labels": [],
+   "notes": "They hung back when the others followed the Ndzhenga Males north.",
+   "source_urls": [
+    "https://blog.londolozi.com/2026/03/23/a-new-chapter-for-the-kambula-lionesses-2/",
+    "https://blog.londolozi.com/2026/05/11/the-kambula-lioness-has-given-birth/"
+   ],
+   "confidence": "inferred"
+  },
+  {
+   "id": "kambula-lionesses-ndzhenga-pair",
+   "label": "Kambula lioness pair with the six Ndzhenga-sired cubs",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Kambula Pride",
+   "birth_year": 2018,
+   "birth_note": "Probably the 2018 daughters.",
+   "death_year": null,
+   "fate": "Alive 2026.",
+   "mother_id_or_label": "Ntsevu founding lioness",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [
+    "Six Kambula cubs of 2025"
+   ],
+   "sibling_labels": [],
+   "notes": "Followed the Ndzhenga Males north to avoid Gijima Males.",
+   "source_urls": [
+    "https://blog.londolozi.com/2025/11/20/the-gijima-male-lions-push-north-of-the-river/",
+    "https://blog.londolozi.com/2025/12/30/holding-the-line-the-kambula-lionesses-and-their-cubs/",
+    "https://blog.londolozi.com/2026/04/04/whats-happened-to-the-msuthlu-pride/"
+   ],
+   "confidence": "inferred"
+  },
+  {
+   "id": "msuthlu-adult-lionesses",
+   "label": "Msuthlu adult lionesses (4)",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Msuthlu Pride",
+   "birth_year": null,
+   "birth_note": "Not stated.",
+   "death_year": null,
+   "fate": "3 seen most Apr 2026, 4 again Sep 2026; 4th and one subadult seen further south.",
+   "mother_id_or_label": "Unknown",
+   "father_or_sire_label": "Gijima Males (for current offspring)",
+   "offspring_labels": [
+    "Msuthlu sub-adults (sired by Gijima Males)"
+   ],
+   "sibling_labels": [],
+   "notes": "Pride described as 'formerly the Talamati Breakaway Pride'. A sub-adult was killed by the Nkhulu Males late 2025.",
+   "source_urls": [
+    "https://blog.londolozi.com/2025/10/08/persistence-pays-off-for-the-msuthlu-pride-of-lions/",
+    "https://blog.londolozi.com/2026/04/04/whats-happened-to-the-msuthlu-pride/",
+    "https://blog.londolozi.com/2026/09/01/when-lions-change-sides-the-uncertain-future-of-the-msuthlu-pride/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "msuthlu-subadults",
+   "label": "Msuthlu sub-adults / young (11-14 lions in total incl. adults)",
+   "aliases": [],
+   "sex": "M+F",
+   "pride": "Msuthlu Pride",
+   "birth_year": null,
+   "birth_note": "Offspring of the four adults, sired by the Gijima Males; e.g. 2 sub-adult males, 2 young sub-adult females, 3 younger cubs seen Apr 2026.",
+   "death_year": null,
+   "fate": "A young male harassed by the Nwaswitshaka Males in Aug-Sep 2026 - fate unknown.",
+   "mother_id_or_label": "Msuthlu adult lionesses",
+   "father_or_sire_label": "Gijima Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "2026-09-01: roughly seven sub-adults remain.",
+   "source_urls": [
+    "https://blog.londolozi.com/2025/10/08/persistence-pays-off-for-the-msuthlu-pride-of-lions/",
+    "https://blog.londolozi.com/2026/04/04/whats-happened-to-the-msuthlu-pride/",
+    "https://blog.londolozi.com/2026/09/01/when-lions-change-sides-the-uncertain-future-of-the-msuthlu-pride/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "styx-male",
+   "label": "Styx Male (young, blonde)",
+   "aliases": [
+    "Styx Young Male"
+   ],
+   "sex": "M",
+   "pride": "Styx Pride",
+   "birth_year": 2021,
+   "birth_note": "Born 2021 (2026-07-07) to a Styx Pride lioness and one of the Ndzhenga Males.",
+   "death_year": null,
+   "fate": "Alive Sep 2026, nomadic.",
+   "mother_id_or_label": "A Styx Pride lioness",
+   "father_or_sire_label": "One of the Ndzhenga Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "Pairs with the Ntsevu breakaway female Oct 2024-2026. Injured a Kambula male and killed a cub in Feb 2025; chased off by his father. Possible coalition partner for Nkuhuma Breakaway Male. The 2026-09-05 post 'The Styx Male: A Growing Presence' is not in the local corpus.",
+   "source_urls": [
+    "https://blog.londolozi.com/2024/10/02/where-is-the-ntsevu-breakaway-female/",
+    "https://blog.londolozi.com/2025/02/20/changes-on-the-horizon-an-update-on-the-kambula-pride/",
+    "https://blog.londolozi.com/2025/07/06/leopard-tensions-the-ngungwe-females-cub-and-lions-roaring-virtual-safari-278/",
+    "https://blog.londolozi.com/2025/08/04/the-rise-of-the-nkuhuma-breakaways-and-what-lies-ahead/",
+    "https://blog.londolozi.com/2026/04/02/the-how-and-why-of-male-lion-coalitions/",
+    "https://blog.londolozi.com/2026/07/07/how-much-longer-do-the-gijima-male-lions-have-and-who-could-be-next/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "styx-young-male-2016",
+   "label": "Styx Young Male (b. 2016) - Nkuhuma partner",
+   "aliases": [
+    "Styx young male of 2020-21"
+   ],
+   "sex": "M",
+   "pride": "Styx Pride",
+   "birth_year": 2016,
+   "birth_note": "Born 2016; broke out of the Styx Pride and teamed with an Nkuhuma young male (2021).",
+   "death_year": 2021,
+   "fate": "Mysteriously died (by 2021/22).",
+   "mother_id_or_label": "A Styx Pride lioness",
+   "father_or_sire_label": "Unknown",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "Distinct from the 2021-born Styx Male.",
+   "source_urls": [
+    "https://blog.londolozi.com/2021/01/09/male-lions-of-londolozi/",
+    "https://blog.londolozi.com/2021/01/25/the-healing-powers-of-lions/",
+    "https://blog.londolozi.com/2024/10/29/the-rise-of-a-new-coalition-the-nkuhuma-and-talamati-male/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "styx-pride-adults-2022",
+   "label": "Styx Pride lionesses (3 adults + 11 cubs, 2022)",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Styx Pride",
+   "birth_year": null,
+   "birth_note": "Not stated.",
+   "death_year": null,
+   "fate": "Seen in the south of Londolozi; 3 young cubs in the Marula tree/airstrip 2023.",
+   "mother_id_or_label": "Unknown",
+   "father_or_sire_label": "Ndzhenga Males (cubs 2021-22)",
+   "offspring_labels": [
+    "Styx Male (2021)",
+    "Cubs killed by six nomadic males (Dec 2022)"
+   ],
+   "sibling_labels": [],
+   "notes": "Ndzhenga-sired litters ran 2021-22; one cub killed by six new males Dec 2022.",
+   "source_urls": [
+    "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/",
+    "https://blog.londolozi.com/2022/11/10/the-dominant-ndhzenga-coalition/",
+    "https://blog.londolozi.com/2022/12/14/what-is-on-the-horizon-for-the-lions-of-londolozi/",
+    "https://blog.londolozi.com/2023/03/01/hyenas-vs-lions-at-the-londolozi-airstrip/",
+    "https://blog.londolozi.com/2023/03/23/tree-climbing-lions-of-londolozi-are-lions-good-climbers/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "southern-pride-last-female",
+   "label": "Last adult Southern Pride lioness (April 2021)",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Southern Pride",
+   "birth_year": null,
+   "birth_note": "Not stated.",
+   "death_year": null,
+   "fate": "Alive, raising two cubs (2021); 2025 offspring sired by Gijima.",
+   "mother_id_or_label": "Unknown",
+   "father_or_sire_label": "Unknown (cubs); Gijima Males (2025)",
+   "offspring_labels": [
+    "Two cubs (b. ~Oct 2020)",
+    "New offspring 2025 sired by Gijima Males"
+   ],
+   "sibling_labels": [],
+   "notes": "A sub-adult female with her was injured and not expected to survive.",
+   "source_urls": [
+    "https://blog.londolozi.com/2021/04/06/a-forgotten-sighting-of-the-southern-pride/",
+    "https://blog.londolozi.com/2025/06/12/an-update-on-the-gijima-males/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "othawa-male",
+   "label": "Othawa (Ottawa) Male",
+   "aliases": [
+    "Ottawa Male",
+    "Othawa male"
+   ],
+   "sex": "M",
+   "pride": "Mhangeni Pride (as dominant male)",
+   "birth_year": 2015,
+   "birth_note": "Born early 2015 (2021-01-09: 'five-year-old', 'born early 2015'; 2018-09-17: 3.5 years); 2019-12-02 wrongly says ~7.",
+   "death_year": 2021,
+   "fate": "Killed by the Birmingham Males after pushing too far east into their territory in 2021 (Jun-Nov 2021).",
+   "mother_id_or_label": "Unknown",
+   "father_or_sire_label": "Unknown",
+   "offspring_labels": [
+    "One Mhangeni cub (b. 2021) survived him"
+   ],
+   "sibling_labels": [],
+   "notes": "Lone male; joined the Mhangeni Pride Dec 2019; mated with an Ntsevu lioness Mar 2020; clashed with the Birmingham Males Jun 2021. 'Previously dominant over the western section' (2021-06-22).",
+   "source_urls": [
+    "https://blog.londolozi.com/2018/09/17/birmingham-male-lion-searching-for-tsalala-lioness/",
+    "https://blog.londolozi.com/2019/12/02/update-on-the-mhangeni-pride/",
+    "https://blog.londolozi.com/2020/03/24/ntsevu-lioness-mates-with-othawa-male/",
+    "https://blog.londolozi.com/2021/01/09/male-lions-of-londolozi/",
+    "https://blog.londolozi.com/2021/06/22/the-northern-avoca-coalition-step-into-a-power-vacuum/",
+    "https://blog.londolozi.com/2021/11/25/for-one-to-rise-another-must-fall-part-1-of-lion-behaviour-through-a-take-over/",
+    "https://blog.londolozi.com/2022/08/03/the-last-of-the-birmingham-males-lineage/",
+    "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/",
+    "https://blog.londolozi.com/2024/08/26/the-calm-before-the-storm-an-imminent-battle-between-male-lions/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "othawa-male-cub-2021",
+   "label": "Last Othawa Male cub (b. 2021, Mhangeni Pride)",
+   "aliases": [],
+   "sex": "U",
+   "pride": "Mhangeni Pride",
+   "birth_year": 2021,
+   "birth_note": "Born 2021.",
+   "death_year": null,
+   "fate": "Alive Aug 2022 and Jun 2024 (the 2021-born pride member).",
+   "mother_id_or_label": "A Mhangeni lioness",
+   "father_or_sire_label": "Othawa Male",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "Sex not given.",
+   "source_urls": [
+    "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/",
+    "https://blog.londolozi.com/2024/06/10/respect-for-the-elders-the-original-mhangeni-lionesses/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "nkuhuma-male",
+   "label": "Nkuhuma Male (son of the Birmingham Males)",
+   "aliases": [],
+   "sex": "M",
+   "pride": "Nkuhuma Pride",
+   "birth_year": 2016,
+   "birth_note": "Aged 7 in Sept 2023 -> ~2016; 'sired by the Birmingham Males, either son or nephew' (2022-08-10); 'late father, the Birmingham Male' (2023-09-04).",
+   "death_year": null,
+   "fate": "Alive, in the Nkumati Coalition with the Talamati Male (since 2024).",
+   "mother_id_or_label": "An Nkuhuma lioness",
+   "father_or_sire_label": "Birmingham Males",
+   "offspring_labels": [],
+   "sibling_labels": [],
+   "notes": "Side branch of the Birmingham lineage; the surviving Birmingham Male teamed with him in 2022.",
+   "source_urls": [
+    "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/",
+    "https://blog.londolozi.com/2023/09/04/update-on-the-lions-of-londolozi-part-2/",
+    "https://blog.londolozi.com/2024/10/29/the-rise-of-a-new-coalition-the-nkuhuma-and-talamati-male/",
+    "https://blog.londolozi.com/2026/02/09/the-rise-of-the-nkumati-coalition/"
+   ],
+   "confidence": "stated"
+  },
+  {
+   "id": "sparta-lioness-killed-2017",
+   "label": "Sparta lioness killed by the Ntsevu (Mar-Apr 2017)",
+   "aliases": [],
+   "sex": "F",
+   "pride": "Sparta Pride",
+   "birth_year": null,
+   "birth_note": "Not stated; mother of two 14-month-old cubs.",
+   "death_year": 2017,
+   "fate": "Killed by the six Mhangeni Breakaway (Ntsevu) lionesses in a clash south-east of Londolozi, witnessed by Umkumbe guides.",
+   "mother_id_or_label": "Unknown",
+   "father_or_sire_label": "Unknown",
+   "offspring_labels": [
+    "Two 14-month-old cubs"
+   ],
+   "sibling_labels": [],
+   "notes": "Evidence stated in 2017-04-03; 2017-07-03 repeats it.",
+   "source_urls": [
+    "https://blog.londolozi.com/2017/04/03/sparta-lioness-has-been-killed/",
+    "https://blog.londolozi.com/2017/07/03/can-a-lion-pride-die/"
+   ],
+   "confidence": "stated"
+  }
+ ],
+ "coalitions": [
+  {
+   "name": "Mapogo Males",
+   "members": [
+    "Kinky-tail",
+    "Satan",
+    "(plus 4 others, 6 originally)"
+   ],
+   "origin": "Six males born 2000 (3) and 2002 (3); dominated Sabi Sand c.2008-2012; displaced by the Majingilane in 2010.",
+   "sired_litters": [
+    {
+     "mother": "Tsalala Sisters (Tailed + New Tailless)",
+     "year": 2009,
+     "notes": "Four female cubs that became the four Mhangeni founders."
+    }
+   ],
+   "territory": "Tsalala/Londolozi until June 2010, then the west.",
+   "status": "Defunct (last two reunited and then lost).",
+   "notes": "Source of the Mhangeni foundresses' paternity (2024-06-10 post says the two older Mhangeni lionesses were 'fathered by the Mapogo coalition').",
+   "source_urls": [
+    "https://blog.londolozi.com/2021/12/07/the-legacy-of-the-tsalala-pride/",
+    "https://blog.londolozi.com/2024/06/10/respect-for-the-elders-the-original-mhangeni-lionesses/",
+    "https://blog.londolozi.com/2022/09/19/the-tsalala-pride-the-next-chapter/"
+   ]
+  },
+  {
+   "name": "Majingilane Males",
+   "members": [
+    "Scar-nose male",
+    "Dark-maned male",
+    "Hip-scar male",
+    "Male with the missing canine (4 of 5 originally)"
+   ],
+   "origin": "Five males who arrived June 2010 and took over from the Mapogo; ruled Londolozi ~8 years; moved west in 2015; deceased by April 2018.",
+   "sired_litters": [
+    {
+     "mother": "Mhangeni foundress lionesses",
+     "year": 2013,
+     "notes": "First Mhangeni litter: 9 cubs raised to independence = the six Ntsevu lionesses + three brothers."
+    },
+    {
+     "mother": "Mhangeni foundress lionesses",
+     "year": "2015-2016",
+     "notes": "Second Mhangeni litter: 12 cubs (9M/3F)."
+    },
+    {
+     "mother": "Tsalala Pride females",
+     "year": 2013,
+     "notes": "Litters incl. female sired and later mated by her own fathers."
+    }
+   ],
+   "territory": "Londolozi and West Sabi Sand.",
+   "status": "Extinct (2018).",
+   "notes": "Also associated with the failed Styx male litter ('Styx males sired by the Majingilane apparently').",
+   "source_urls": [
+    "https://blog.londolozi.com/2018/02/27/lionesses-and-birmingham-male-lions-mating/",
+    "https://blog.londolozi.com/2018/11/08/how-many-cubs-does-the-ntsevu-pride-have/",
+    "https://blog.londolozi.com/2016/09/03/mhangeni-pride-more-cubs-than-last-time/",
+    "https://blog.londolozi.com/2018/05/07/matimba-males-return/"
+   ]
+  },
+  {
+   "name": "Matimba Males",
+   "members": [
+    "Dark-maned (ginger-maned) Matimba male",
+    "Hairy-bellied (lighter-maned) Matimba male"
+   ],
+   "origin": "Two of an original six-male coalition from Manyelethi; first seen on Londolozi 2 Sept 2015; chased out of the north by the Birmingham Males; left Londolozi in Jan-Feb 2017.",
+   "sired_litters": [
+    {
+     "mother": "Tsalala lionesses",
+     "year": 2016,
+     "notes": "5 cubs, none survived."
+    },
+    {
+     "mother": "Mhangeni Breakaway (Ntsevu) lionesses",
+     "year": 2016,
+     "notes": "Mating Aug 2016-Jan 2017; litter(s) did not survive (2017-04-29)."
+    },
+    {
+     "mother": "Talamati Pride lionesses",
+     "year": "2011-2015",
+     "notes": "Cubs sired; only one daughter survived."
+    }
+   ],
+   "territory": "Central Londolozi (strip along the Sand River) 2015-2017; west Sabi Sand 2018.",
+   "status": "Gone from Londolozi (2018: west of reserve).",
+   "notes": "'Genetically failures' on Londolozi (2018-05-07).",
+   "source_urls": [
+    "https://blog.londolozi.com/2017/03/02/where-have-the-matimba-males-gone/",
+    "https://blog.londolozi.com/2018/05/07/matimba-males-return/",
+    "https://blog.londolozi.com/2016/08/20/lion-update-matimbas-mhangheni-breakaways-the-matshipiris/",
+    "https://blog.londolozi.com/2017/04/29/mhangeni-breakaway-pride-renamed/"
+   ]
+  },
+  {
+   "name": "Matshipiri (Matshapiri) Males",
+   "members": [
+    "Dark-maned Matshipiri male",
+    "Second Matshipiri male"
+   ],
+   "origin": "Two males who reached Londolozi in 2014-2015 (Fourways and Styx males also tried); chased by the Majingilane in Aug 2015; settled to the south/east with the Sparta Pride.",
+   "sired_litters": [
+    {
+     "mother": "Sparta lionesses (two)",
+     "year": 2016,
+     "notes": "Two lionesses birthed two cubs each (2016-04-02)."
+    },
+    {
+     "mother": "Mhangeni Breakaway (Ntsevu) lionesses",
+     "year": 2017,
+     "notes": "Mated 2016-2017; early litters failed."
+    }
+   ],
+   "territory": "East/south-east of Londolozi along the Sand River.",
+   "status": "By Aug 2017 only one male is left ('remaining Matshipiri male').",
+   "notes": "Chased the Mhangeni breakaway females in Aug 2016; an alliance with them in early 2017.",
+   "source_urls": [
+    "https://blog.londolozi.com/2016/04/02/lion-update-matshipiri-males-return/",
+    "https://blog.londolozi.com/2016/08/20/lion-update-matimbas-mhangheni-breakaways-the-matshipiris/",
+    "https://blog.londolozi.com/2017/03/02/where-have-the-matimba-males-gone/",
+    "https://blog.londolozi.com/2017/08/05/the-tsalala-pride-a-reunion/"
+   ]
+  },
+  {
+   "name": "Birmingham Males",
+   "members": [
+    "Five originally (2022-08-03; 6 per 2021-06-22); four in 2018; three by Mar 2019; two by Dec 2019; one by Nov 2021"
+   ],
+   "origin": "Five males who first came into Londolozi in late 2014; dominant late 2017-2021; one died before Aug 2019 (date unclear), two remained by Dec 2019; last survivor pushed out by the Ndzhenga Males Nov 2021.",
+   "sired_litters": [
+    {
+     "mother": "Ntsevu lionesses",
+     "year": "2018-2021",
+     "notes": "First failed litters; 12-15 cubs from Aug 2018; 14 cubs by Sep 2020; 5 + 6 cubs 2021; last 4 cubs (2021) -> 2 survivors."
+    },
+    {
+     "mother": "Tsalala Female (b.2014)",
+     "year": 2019,
+     "notes": "One cub survived."
+    },
+    {
+     "mother": "Nkuhuma Pride lioness",
+     "year": 2016,
+     "notes": "The Nkuhuma Male (b. ~2016) is their son/nephew."
+    }
+   ],
+   "territory": "South and east Londolozi, Mala Mala west.",
+   "status": "Defunct on Londolozi (last Birmingham Male fled west in 2022 and joined the Nkuhuma Male; 'late father' by Sep 2023).",
+   "notes": "Killed the Othawa Male in 2021.",
+   "source_urls": [
+    "https://blog.londolozi.com/2020/09/12/are-the-northern-avoca-male-lions-looking-for-more-territory/",
+    "https://blog.londolozi.com/2021/06/22/the-northern-avoca-coalition-step-into-a-power-vacuum/",
+    "https://blog.londolozi.com/2022/08/03/the-last-of-the-birmingham-males-lineage/",
+    "https://blog.londolozi.com/2022/11/10/the-dominant-ndhzenga-coalition/",
+    "https://blog.londolozi.com/2023/09/04/update-on-the-lions-of-londolozi-part-2/"
+   ]
+  },
+  {
+   "name": "Ndzhenga (N'waswitshaka) Males",
+   "members": [
+    "Larger injury-free male",
+    "Smaller injury-free male",
+    "Male with stomach injury ('thorn in the side', died 25 May 2023)",
+    "Male from S79 Pride with crooked left front foot (died 9 Feb 2023)"
+   ],
+   "origin": "Four males (three b.2015 from the N'waswitshaka Pride in KNP, one from the S79 Pride) arrived on Londolozi in early Nov 2021; down to two by May 2023.",
+   "sired_litters": [
+    {
+     "mother": "Ntsevu/Kambula lionesses",
+     "year": "2022-2025",
+     "notes": "Cubs lost in 2022; 21-24 cubs born Nov 2022-Apr 2023 (12 survive); 2023-24 Ntsevu cubs; 6 Kambula cubs 2025."
+    },
+    {
+     "mother": "Styx Pride lioness",
+     "year": 2021,
+     "notes": "Styx Male b.2021 is a son of one of them (2025-02-20; 2026-07-07)."
+    }
+   ],
+   "territory": "East and central Londolozi, northern Mala Mala (Nov 2021-Aug 2025).",
+   "status": "Displaced north of the Sand River by the Gijima Males, Aug-Nov 2025; two remaining males.",
+   "notes": "Killed the third Gijima Male soon after arriving (per 2025-08-21) - but the crooked-footed S79 male was injured by Gijimas in Apr 2022.",
+   "source_urls": [
+    "https://blog.londolozi.com/2022/11/10/the-dominant-ndhzenga-coalition/",
+    "https://blog.londolozi.com/2023/06/19/the-ndzhenga-coalition/",
+    "https://blog.londolozi.com/2025/08/21/is-the-clock-ticking-for-the-ndzhenga-males/",
+    "https://blog.londolozi.com/2025/11/20/the-gijima-male-lions-push-north-of-the-river/",
+    "https://blog.londolozi.com/2025/02/20/changes-on-the-horizon-an-update-on-the-kambula-pride/"
+   ]
+  },
+  {
+   "name": "Gijima Males",
+   "members": [
+    "Dark-maned (larger) Gijima male",
+    "Blonde / light-maned Gijima male (a third Gijima male was killed by the Ndzhenga Males, per 2025-08-21)"
+   ],
+   "origin": "Two males (born presumably 2016-17 in Greater Kruger) dominant in the far south; moved north from June 2025 and took over the Londolozi centre 15 Aug 2025.",
+   "sired_litters": [
+    {
+     "mother": "Msuthlu Pride lionesses",
+     "year": "2022-2025",
+     "notes": "Fathers of the pride's cubs."
+    },
+    {
+     "mother": "Southern Pride lioness",
+     "year": 2025,
+     "notes": "New offspring."
+    },
+    {
+     "mother": "Two Kambula lionesses",
+     "year": 2025,
+     "notes": "Nov 2025 litter (lost to infanticide); April 2026 litter, 8 cubs."
+    },
+    {
+     "mother": "Ntsevu lioness",
+     "year": "2025",
+     "notes": "Mating Aug-Nov 2025; outcome not reported."
+    }
+   ],
+   "territory": "South -> central/east Londolozi (Aug 2025-).",
+   "status": "Dominant but ageing (Jul 2026).",
+   "notes": "Dominant over Styx, Southern and Msuthlu prides (Sep 2025).",
+   "source_urls": [
+    "https://blog.londolozi.com/2025/06/12/an-update-on-the-gijima-males/",
+    "https://blog.londolozi.com/2025/08/17/chaos-on-the-airstrip-gijima-males-rise-as-ndzhengas-fade-virtual-safari-284/",
+    "https://blog.londolozi.com/2025/09/22/a-northward-shift-by-the-gijima-male-lions/",
+    "https://blog.londolozi.com/2025/11/20/the-gijima-male-lions-push-north-of-the-river/",
+    "https://blog.londolozi.com/2026/07/07/how-much-longer-do-the-gijima-male-lions-have-and-who-could-be-next/"
+   ]
+  },
+  {
+   "name": "Plains Camp Males",
+   "members": [
+    "Larger male",
+    "Smaller dark-maned male"
+   ],
+   "origin": "Two very large males that took over the western sector after the Othawa Male's death (2021).",
+   "sired_litters": [
+    {
+     "mother": "Mhangeni Pride",
+     "year": "2021-2023",
+     "notes": "9 cubs by 2023-09."
+    },
+    {
+     "mother": "Tsalala Female",
+     "year": "2024-2025",
+     "notes": "3 cubs (lost Nov 2024); second litter Sept 2025 (lost)."
+    },
+    {
+     "mother": "Nkuhuma Breakaway lionesses",
+     "year": 2022,
+     "notes": "Nkuhuma Breakaway male & female (b.2022)."
+    },
+    {
+     "mother": "A Ntsevu lioness",
+     "year": 2024,
+     "notes": "Mated Apr 2024; outcome unrecorded."
+    }
+   ],
+   "territory": "West Londolozi/western Sabi Sand, pushing into Ndzhenga territory in 2024.",
+   "status": "Active (2026).",
+   "notes": "Related to Ntsevu only via mating.",
+   "source_urls": [
+    "https://blog.londolozi.com/2023/09/04/update-on-the-lions-of-londolozi-part-2/",
+    "https://blog.londolozi.com/2024/04/22/the-plains-camp-males-and-one-ntsevu-lioness-meet/",
+    "https://blog.londolozi.com/2024/08/12/the-plains-camp-males-at-the-causeway/",
+    "https://blog.londolozi.com/2024/09/03/the-next-chapter-for-the-tsalala-pride/"
+   ]
+  },
+  {
+   "name": "Selati Males",
+   "members": [
+    "Names/number not stated ('young Selati males', circa 2011)"
+   ],
+   "origin": "Young non-territorial coalition of 2011 around Londolozi's south-west, known buffalo hunters; later dominant over the Talamati Pride (2015-2019) after the Birmingham Males chased out the Matimba.",
+   "sired_litters": [
+    {
+     "mother": "Talamati Pride lionesses",
+     "year": "2015-2019",
+     "notes": "Two Selati daughters survived."
+    }
+   ],
+   "territory": "South-west Londolozi/Talamati range.",
+   "status": "Removed by the Northern Avoca Males in 2019.",
+   "notes": "Only two posts mention them.",
+   "source_urls": [
+    "https://blog.londolozi.com/2019/07/31/why-are-the-ntsevu-lions-bad-at-hunting-buffalo/",
+    "https://blog.londolozi.com/2022/07/25/the-talamati-pride-who-are-they/",
+    "https://blog.londolozi.com/2019/08/15/male-lions-slim-chances-of-success/"
+   ]
+  },
+  {
+   "name": "Styx Males (old coalition)",
+   "members": [
+    "Not stated"
+   ],
+   "origin": "Coalition that attempted to claim Londolozi c. late 2014-15; listed among coalitions that failed to impress ('Styx Males, sired by the Majingilane apparently').",
+   "sired_litters": [],
+   "territory": "Londolozi/Sparta region 2014-15.",
+   "status": "Extinct.",
+   "notes": "Distinct from the 'Styx Male' of 2021.",
+   "source_urls": [
+    "https://blog.londolozi.com/2019/08/15/male-lions-slim-chances-of-success/",
+    "https://blog.londolozi.com/2015/11/17/what-has-happened-to-the-sparta-pride/"
+   ]
+  },
+  {
+   "name": "Ntsevu Breakaway Males (Ntsevu / Kambula Males)",
+   "members": [
+    "Four males: oldest and most impressive; three others (one injured in Nov 2024)"
+   ],
+   "origin": "Four sons of the Birmingham Males and Ntsevu lionesses (three b.2018, one b.2019) who left the pride around the Ndzhenga arrival.",
+   "sired_litters": [],
+   "territory": "South-west Londolozi (2022-24), then north (Manyelethi/Nkuhuma, 2024), then southern Londolozi again (Jan 2025).",
+   "status": "Nomadic coalition, still 4 in Aug 2025.",
+   "notes": "Sisters and sub-adult sisters = Kambula Pride daughters.",
+   "source_urls": [
+    "https://blog.londolozi.com/2023/09/04/update-on-the-lions-of-londolozi-part-2/",
+    "https://blog.londolozi.com/2024/09/09/where-are-the-ntsevu-males/",
+    "https://blog.londolozi.com/2025/01/21/the-ntsevu-breakaways-on-the-brink-of-dominance/",
+    "https://blog.londolozi.com/2025/01/26/unbelievable-week-of-cheetah-viewing-and-the-ntsevu-males-are-back-together-virtual-safari-255/"
+   ]
+  },
+  {
+   "name": "Nkumati Coalition (Nkuhuma + Talamati Males)",
+   "members": [
+    "Nkuhuma Male (b. ~2016, son of the Birmingham Males)",
+    "Talamati Male"
+   ],
+   "origin": "Unrelated males; partnered since mid-2024; named 'Nkumati' 9 Feb 2026.",
+   "sired_litters": [
+    {
+     "mother": "Mhangeni Pride females",
+     "year": 2025,
+     "notes": "Four cubs born Nov 2025 to a 2018-born Mhangeni lioness."
+    }
+   ],
+   "territory": "South-western sector of the Sabi Sand.",
+   "status": "Active.",
+   "notes": "Also mated with a Ntsevu lioness (Jun 2025) and were chased by the Plains Camp Males.",
+   "source_urls": [
+    "https://blog.londolozi.com/2024/10/29/the-rise-of-a-new-coalition-the-nkuhuma-and-talamati-male/",
+    "https://blog.londolozi.com/2026/02/09/the-rise-of-the-nkumati-coalition/",
+    "https://blog.londolozi.com/2026/02/12/the-newest-additions-to-the-mhangeni-pride-of-lions/",
+    "https://blog.londolozi.com/2025/06/22/insane-lion-fight-and-the-mashaba-female-is-back-on-londolozi-virtual-safari-276/"
+   ]
+  },
+  {
+   "name": "Nwaswitshaka (N'waswitsaka) Males",
+   "members": [
+    "Four young males"
+   ],
+   "origin": "Four young males from the same Kruger NP pride (N'waswitshaka) as three of the Ndzhenga Males; newest coalition on Londolozi (mid-2026).",
+   "sired_litters": [],
+   "territory": "South of the Gijima territory, pushing into the south of Londolozi.",
+   "status": "Active, emerging.",
+   "notes": "Mating with Msuthlu females (Aug-Sep 2026).",
+   "source_urls": [
+    "https://blog.londolozi.com/2026/07/07/how-much-longer-do-the-gijima-male-lions-have-and-who-could-be-next/",
+    "https://blog.londolozi.com/2026/08/13/scrambled-eggs-on-the-menu-for-the-msuthlu-pride/",
+    "https://blog.londolozi.com/2026/09/01/when-lions-change-sides-the-uncertain-future-of-the-msuthlu-pride/"
+   ]
+  },
+  {
+   "name": "Northern Avoca Males",
+   "members": [
+    "Dark-maned Avoca male",
+    "Two brothers (three in 2020)"
+   ],
+   "origin": "Three brothers dominant in the north from 2019; sired 9 Talamati cubs (2019) and Nkuhuma cubs; down to one male by Dec 2022.",
+   "sired_litters": [
+    {
+     "mother": "Talamati Pride lionesses",
+     "year": 2019,
+     "notes": "Nine cubs (6F,3M)."
+    },
+    {
+     "mother": "Nkuhuma Pride lionesses",
+     "year": 2019,
+     "notes": "Cubs of 2019-2021."
+    }
+   ],
+   "territory": "North Londolozi/Marthly.",
+   "status": "Nearly extinct.",
+   "notes": "One Ntsevu lioness mated with a Northern Avoca Male in 2021 as a distraction / alliance tactic.",
+   "source_urls": [
+    "https://blog.londolozi.com/2022/07/25/the-talamati-pride-who-are-they/",
+    "https://blog.londolozi.com/2021/06/22/the-northern-avoca-coalition-step-into-a-power-vacuum/",
+    "https://blog.londolozi.com/2022/01/10/tactics-in-managing-a-take-over-part-2-of-lion-behaviour-through-a-take-over/"
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "subject": "Original Tailless Female",
+   "relation": "mother_of",
+   "object": "Tsalala Sisters (Tailed + New Tailless)",
+   "date": "2002-12",
+   "evidence_quote_short": "mated with the Marthly Males, giving birth to two female cubs on Ximpalapala Koppie that same December 2002",
+   "source_url": "https://blog.londolozi.com/2021/12/07/the-legacy-of-the-tsalala-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Tailed Female",
+   "relation": "sibling_of",
+   "object": "New Tailless Female",
+   "date": "2018-05-30",
+   "evidence_quote_short": "she was the Tailless female’s sister",
+   "source_url": "https://blog.londolozi.com/2018/05/30/tailless-lioness-badly-injured/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Tsalala Sisters (Tailed + New Tailless)",
+   "relation": "mother_of",
+   "object": "Mhangeni foundress lionesses",
+   "date": "2009",
+   "evidence_quote_short": "This Mhangeni Lioness was born into the Tsalala Pride in 2009 by one of the Tsalala Sisters",
+   "source_url": "https://blog.londolozi.com/2022/09/19/the-tsalala-pride-the-next-chapter/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Mapogo Males",
+   "relation": "sire_of",
+   "object": "Mhangeni foundress lionesses",
+   "date": "2009",
+   "evidence_quote_short": "The two older lionesses in the Mhangeni pride we see today are fathered by the Mapogo coalition!",
+   "source_url": "https://blog.londolozi.com/2024/06/10/respect-for-the-elders-the-original-mhangeni-lionesses/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Mhangeni Pride",
+   "relation": "breakaway_from",
+   "object": "Tsalala Pride",
+   "date": "2010",
+   "evidence_quote_short": "the now Mhangeni pride, breaking away from the Tsalala pride six years ago",
+   "source_url": "https://blog.londolozi.com/2016/04/18/lion-update-fate-of-the-tsalala-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Original Tailless Female",
+   "relation": "killed_by",
+   "object": "Mhangeni lionesses (her granddaughters)",
+   "date": "2013",
+   "evidence_quote_short": "she was mauled by the females. Her remains were then found at Marthly Pools the next day",
+   "source_url": "https://blog.londolozi.com/2021/12/07/the-legacy-of-the-tsalala-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Mhangeni foundress lionesses",
+   "relation": "mother_of",
+   "object": "Ntsevu founding lionesses",
+   "date": "2013",
+   "evidence_quote_short": "The Mhangeni females (mothers of Ntsevu females)",
+   "source_url": "https://blog.londolozi.com/2018/05/20/lionesses-mate-with-birmingham-males/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Majingilane Males",
+   "relation": "sire_of",
+   "object": "Ntsevu founding lionesses and Mhangeni males 2013",
+   "date": "2013",
+   "evidence_quote_short": "mating with the Majingilane themselves to raise 9 out of 10 cubs through to independence",
+   "source_url": "https://blog.londolozi.com/2018/11/08/how-many-cubs-does-the-ntsevu-pride-have/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu founding lionesses",
+   "relation": "sibling_of",
+   "object": "Mhangeni males of the 2013 litter",
+   "date": "2013",
+   "evidence_quote_short": "The Mhangeni males, brothers to the Ntsevu lionesses",
+   "source_url": "https://blog.londolozi.com/2018/09/06/what-happens-to-young-male-lions/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Majingilane Males",
+   "relation": "sire_of",
+   "object": "Second Mhangeni litter (12 cubs, 2015-16)",
+   "date": "2016",
+   "evidence_quote_short": "the cubs of the Mhangeni lionesses were sired by the Majingilane coalition",
+   "source_url": "https://blog.londolozi.com/2016/05/10/matimba-males-chase-mhangeni-females/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Majingilane Males",
+   "relation": "sire_of",
+   "object": "Mhangeni litters 2013 and 2016",
+   "date": "2013-2016",
+   "evidence_quote_short": "both big groups of cubs (2013 and 2016) were sired by these males",
+   "source_url": "https://blog.londolozi.com/2018/02/27/lionesses-and-birmingham-male-lions-mating/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Pride",
+   "relation": "breakaway_from",
+   "object": "Mhangeni Pride",
+   "date": "2016-2017",
+   "evidence_quote_short": "after they broke away from their parent Mhangeni pride",
+   "source_url": "https://blog.londolozi.com/2017/11/06/londolozis-newest-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Pride",
+   "relation": "breakaway_from",
+   "object": "Mhangeni Pride",
+   "date": "2016",
+   "evidence_quote_short": "the Ntsevu Pride itself was formed when six of the young Mhangeni Sub-Adult Females split from their pride",
+   "source_url": "https://blog.londolozi.com/2021/08/04/whats-happening-with-the-ntsevu-prides-sub-adults/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Mhangeni Breakaway Pride",
+   "relation": "merged_with",
+   "object": "Ntsevu Pride (rename)",
+   "date": "2017-04-29",
+   "evidence_quote_short": "going forward, we will refer to these lions as the Ntsevu Pride",
+   "source_url": "https://blog.londolozi.com/2017/04/29/mhangeni-breakaway-pride-renamed/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Pride",
+   "relation": "takeover_of",
+   "object": "Sparta Pride range (central/south-east Londolozi)",
+   "date": "2016-2017",
+   "evidence_quote_short": "forced the Sparta lionesses further south, killing one of them in the process",
+   "source_url": "https://blog.londolozi.com/2017/07/03/can-a-lion-pride-die/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Sparta lioness (2017)",
+   "relation": "killed_by",
+   "object": "Mhangeni Breakaway / Ntsevu lionesses",
+   "date": "2017-03",
+   "evidence_quote_short": "a lioness from the Sparta pride was killed by the six Mhangeni breakaway lionesses",
+   "source_url": "https://blog.londolozi.com/2017/04/03/sparta-lioness-has-been-killed/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Pride",
+   "relation": "mated_with",
+   "object": "Matshipiri Males",
+   "date": "2016-2017",
+   "evidence_quote_short": "the lionesses have been mating consistently with the Matshipiri coalition",
+   "source_url": "https://blog.londolozi.com/2017/04/29/mhangeni-breakaway-pride-renamed/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Mhangeni Breakaway lionesses",
+   "relation": "mated_with",
+   "object": "Matimba Males",
+   "date": "2016-2017",
+   "evidence_quote_short": "we have seen the pride mating with the two Matimba males (believed to be the fathers of the cubs)",
+   "source_url": "https://blog.londolozi.com/2017/01/09/matimba-males-chase-mhangeni-breakaways/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Pride",
+   "relation": "mated_with",
+   "object": "Matshipiri, Matimba and Majingilane coalitions",
+   "date": "2016-2017",
+   "evidence_quote_short": "The lionesses have mated with at least three coalitions that we are aware of (Mathsipiri, Matimba and Majingilane)",
+   "source_url": "https://blog.londolozi.com/2017/11/06/londolozis-newest-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Matimba Males",
+   "relation": "sire_of",
+   "object": "Talamati young male (separated from his brothers, 2016)",
+   "date": "2016",
+   "evidence_quote_short": "who are his fathers and the only reason he hasn’t been driven off by them",
+   "source_url": "https://blog.londolozi.com/2016/08/20/lion-update-matimbas-mhangheni-breakaways-the-matshipiris/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Matshipiri Males",
+   "relation": "sire_of",
+   "object": "Sparta Pride cubs (2016)",
+   "date": "2016",
+   "evidence_quote_short": "These two males have since fathered cubs with the Sparta pride",
+   "source_url": "https://blog.londolozi.com/2016/04/02/lion-update-matshipiri-males-return/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Sparta young male (2012)",
+   "relation": "merged_with",
+   "object": "Mhangeni Pride",
+   "date": "2015-09",
+   "evidence_quote_short": "the male had joined the Mhangeni pride out in the west of the reserve",
+   "source_url": "https://blog.londolozi.com/2015/10/06/sparta-male-joins-mhangeni-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Sparta young male (2012)",
+   "relation": "merged_with",
+   "object": "Mhangeni Breakaway Pride",
+   "date": "2015-2016",
+   "evidence_quote_short": "The young male had managed to integrate into what was then the Mhangeni breakaway pride (now Ntsevu)",
+   "source_url": "https://blog.londolozi.com/2019/09/05/that-haunted-look-young-male-lions/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Talamati young male (2016)",
+   "relation": "merged_with",
+   "object": "Mhangeni Breakaway Pride",
+   "date": "2016-08",
+   "evidence_quote_short": "He has also been spending time with the breakaway pride and the Matimba males",
+   "source_url": "https://blog.londolozi.com/2016/08/20/lion-update-matimbas-mhangheni-breakaways-the-matshipiris/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Birmingham Males",
+   "relation": "takeover_of",
+   "object": "Tsalala, Mhangeni and Ntsevu prides",
+   "date": "2017",
+   "evidence_quote_short": "established themselves as the dominant males in late 2017 and claimed the Tsalala Pride, Mungheni Pride and the Ntsevu Pride",
+   "source_url": "https://blog.londolozi.com/2022/08/03/the-last-of-the-birmingham-males-lineage/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Birmingham Males",
+   "relation": "mated_with",
+   "object": "Ntsevu lionesses",
+   "date": "2018",
+   "evidence_quote_short": "when one or even all four of these male lions are found, there is bound to be an Ntsevu lioness in their vicinity",
+   "source_url": "https://blog.londolozi.com/2018/04/28/a-new-beginning/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Birmingham Males",
+   "relation": "mated_with",
+   "object": "Mhangeni lionesses",
+   "date": "2018-02",
+   "evidence_quote_short": "two Mhangeni lionesses coming all the way east to mate with two Birmingham males",
+   "source_url": "https://blog.londolozi.com/2018/02/27/lionesses-and-birmingham-male-lions-mating/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Birmingham Males",
+   "relation": "sire_of",
+   "object": "Ntsevu litters of 2018-2021 (the Ntsevu Sub-Adults)",
+   "date": "2018",
+   "evidence_quote_short": "birthed a relatively large litter of cubs who were sired by the Birmingham Coalition",
+   "source_url": "https://blog.londolozi.com/2022/05/23/the-ntsevu-sub-adult-males-as-a-coalition/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Birmingham Males",
+   "relation": "sire_of",
+   "object": "Ntsevu Sub-Adults (fathers confirmed by blog)",
+   "date": "2021",
+   "evidence_quote_short": "Being the fathers of the Ntsevu Sub-Adults, the two dominant males moved with intimidation",
+   "source_url": "https://blog.londolozi.com/2021/08/23/birmingham-males-chase-ntsevu-sub-adults/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu first litters (2017-18)",
+   "relation": "killed_by",
+   "object": "Birmingham Males (own sires) and a Ntsevu lioness",
+   "date": "2018",
+   "evidence_quote_short": "One litter was killed by the very males that sired them (Birmingham), and another litter was killed by a female within the pride",
+   "source_url": "https://blog.londolozi.com/2018/09/09/tiny-lion-cubs-on-londolozi/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu infertile lioness",
+   "relation": "mated_with",
+   "object": "Othawa Male",
+   "date": "2020-03",
+   "evidence_quote_short": "The male was easy enough to identify as the Othawa male",
+   "source_url": "https://blog.londolozi.com/2020/03/24/ntsevu-lioness-mates-with-othawa-male/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu lioness",
+   "relation": "mated_with",
+   "object": "Northern Avoca Male",
+   "date": "2021",
+   "evidence_quote_short": "a Ntsevu Lioness mates Northern Avoca Male",
+   "source_url": "https://blog.londolozi.com/2022/01/10/tactics-in-managing-a-take-over-part-2-of-lion-behaviour-through-a-take-over/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Birmingham Males",
+   "relation": "sire_of",
+   "object": "Ntsevu 12 cubs of 2018-19",
+   "date": "2018-2019",
+   "evidence_quote_short": "6 adult Ntsevu Females and their 12 cubs all sired by the Birmingham Males",
+   "source_url": "https://blog.londolozi.com/2022/08/03/the-last-of-the-birmingham-males-lineage/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Othawa Male",
+   "relation": "member_of",
+   "object": "Mhangeni Pride (dominant male)",
+   "date": "2020-2021",
+   "evidence_quote_short": "Currently dominant over the Mangheni pride.",
+   "source_url": "https://blog.londolozi.com/2021/01/09/male-lions-of-londolozi/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Othawa Male",
+   "relation": "killed_by",
+   "object": "Birmingham Males",
+   "date": "2021",
+   "evidence_quote_short": "the Birmingham Males who in turn killed the Othawa Male",
+   "source_url": "https://blog.londolozi.com/2024/08/05/are-the-ndzhenga-male-lions-more-dominant-than-the-plains-camp-males/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Othawa Male",
+   "relation": "sire_of",
+   "object": "Last Othawa cub (Mhangeni, b. 2021)",
+   "date": "2021",
+   "evidence_quote_short": "With the one youngster from the Othawa Male still alive",
+   "source_url": "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Plains Camp Males",
+   "relation": "takeover_of",
+   "object": "Mhangeni Pride",
+   "date": "2021",
+   "evidence_quote_short": "moved in to occupy the vacant territory and in doing so laid claim to the Mhageni Pride",
+   "source_url": "https://blog.londolozi.com/2022/09/19/the-tsalala-pride-the-next-chapter/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Plains Camp Males",
+   "relation": "mated_with",
+   "object": "Ntsevu lioness (one of three, 2024)",
+   "date": "2024-04",
+   "evidence_quote_short": "Now that the Plains Camp Males have mated with the Ntsevu Lioness",
+   "source_url": "https://blog.londolozi.com/2024/04/22/the-plains-camp-males-and-one-ntsevu-lioness-meet/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ndzhenga Males",
+   "relation": "takeover_of",
+   "object": "Birmingham Males' territory and the Ntsevu Pride",
+   "date": "2021-11",
+   "evidence_quote_short": "Early that November the four Ndzhenga Male Lions arrived on Londolozi causing absolute havoc for the local Ntsevu Pride and Birmingham Males",
+   "source_url": "https://blog.londolozi.com/2022/04/11/the-last-surviving-ntsevu-cubs-return-to-londolozi/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Birmingham-sired cubs of 2021 (7 of 11 lost)",
+   "relation": "killed_by",
+   "object": "Ndzhenga Males (arrival; cause of death not explicitly stated)",
+   "date": "2021-11/2022-03",
+   "evidence_quote_short": "Over a few weeks of trying their best to avoid the four new male lions seven of the eleven cubs were unfortunately lost",
+   "source_url": "https://blog.londolozi.com/2022/04/11/the-last-surviving-ntsevu-cubs-return-to-londolozi/",
+   "confidence": "inferred"
+  },
+  {
+   "subject": "Ntsevu breakaway mothers",
+   "relation": "mother_of",
+   "object": "Last Birmingham cubs of 2021",
+   "date": "2021",
+   "evidence_quote_short": "the mothers of the last of the Birmingham Males’ offspring",
+   "source_url": "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu breakaway mothers",
+   "relation": "breakaway_from",
+   "object": "Ntsevu Pride",
+   "date": "2021-10",
+   "evidence_quote_short": "a few of the older lionesses ... ventured northward, away from the main pride",
+   "source_url": "https://blog.londolozi.com/2024/08/15/an-update-on-the-nstevu-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ndzhenga Males",
+   "relation": "mated_with",
+   "object": "Ntsevu lionesses",
+   "date": "2022",
+   "evidence_quote_short": "The Ndhzenga Males have been seen mating with several of these females",
+   "source_url": "https://blog.londolozi.com/2022/11/10/the-dominant-ndhzenga-coalition/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ndzhenga Males",
+   "relation": "sire_of",
+   "object": "Ntsevu/Kambula cubs of Nov 2022-Apr 2023",
+   "date": "2022-2023",
+   "evidence_quote_short": "the next generation of lion cubs all fathered by the Ndzhenga Males",
+   "source_url": "https://blog.londolozi.com/2023/07/19/high-hopes-for-the-next-generation-of-the-ntsevu-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ndzhenga Males",
+   "relation": "sire_of",
+   "object": "Ntsevu Pride cubs (Nov 2023 / May 2024)",
+   "date": "2023-2024",
+   "evidence_quote_short": "After successfully mating with the Ndzhenga Males, the pride has grown to 10 members strong",
+   "source_url": "https://blog.londolozi.com/2024/08/15/an-update-on-the-nstevu-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ndzhenga Males",
+   "relation": "sire_of",
+   "object": "Kambula cubs 2025 (six cubs)",
+   "date": "2025",
+   "evidence_quote_short": "The six newest Kambula cubs are believed to have been sired by the Ndzhenga Males.",
+   "source_url": "https://blog.londolozi.com/2025/08/19/a-pride-in-divide-an-update-on-the-kambula-pride-dynamics/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ndzhenga Males",
+   "relation": "sire_of",
+   "object": "Styx Male (b. 2021)",
+   "date": "2021",
+   "evidence_quote_short": "chased off by one of the Ndzhenga Males, who is, in an interesting twist, actually his father",
+   "source_url": "https://blog.londolozi.com/2025/02/20/changes-on-the-horizon-an-update-on-the-kambula-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ndzhenga Males",
+   "relation": "sire_of",
+   "object": "Styx Pride litters (2020-22)",
+   "date": "2020-2022",
+   "evidence_quote_short": "They later were able to sire a few different litters of cubs with the Styx pride",
+   "source_url": "https://blog.londolozi.com/2022/11/10/the-dominant-ndhzenga-coalition/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Styx Pride lioness",
+   "relation": "mother_of",
+   "object": "Styx Male",
+   "date": "2021",
+   "evidence_quote_short": "The Styx male, a son of the Ndzhenga males, born in 2021.",
+   "source_url": "https://blog.londolozi.com/2026/07/07/how-much-longer-do-the-gijima-male-lions-have-and-who-could-be-next/",
+   "confidence": "inferred"
+  },
+  {
+   "subject": "Kambula cub killed (Feb 2025)",
+   "relation": "killed_by",
+   "object": "Styx Male",
+   "date": "2025-02",
+   "evidence_quote_short": "one of the older males was badly injured during a skirmish with the Styx Male",
+   "source_url": "https://blog.londolozi.com/2025/02/20/changes-on-the-horizon-an-update-on-the-kambula-pride/",
+   "confidence": "inferred"
+  },
+  {
+   "subject": "S79 Ndzhenga Male (crooked foot; died 9 Feb 2023)",
+   "relation": "killed_by",
+   "object": "Gijima Males (injury Apr 2022; died of poor condition later)",
+   "date": "2022-04",
+   "evidence_quote_short": "caught alone while on his territorial patrol by a coalition known as the Gijima Males",
+   "source_url": "https://blog.londolozi.com/2023/06/19/the-ndzhenga-coalition/",
+   "confidence": "inferred"
+  },
+  {
+   "subject": "Third Gijima Male",
+   "relation": "killed_by",
+   "object": "Ndzhenga Males",
+   "date": "2021-2022",
+   "evidence_quote_short": "they managed to kill the third Gijima Male in an altercation in the deep south",
+   "source_url": "https://blog.londolozi.com/2025/08/21/is-the-clock-ticking-for-the-ndzhenga-males/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Birmingham Male (late)",
+   "relation": "sire_of",
+   "object": "Nkuhuma Male",
+   "date": "2016",
+   "evidence_quote_short": "a brief altercation with his late father, the Birmingham Male",
+   "source_url": "https://blog.londolozi.com/2023/09/04/update-on-the-lions-of-londolozi-part-2/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Birmingham Males",
+   "relation": "sire_of",
+   "object": "Nkuhuma Male",
+   "date": "2016",
+   "evidence_quote_short": "sired by the Birmingham Males, and so either his son or nephew",
+   "source_url": "https://blog.londolozi.com/2022/08/10/lions-of-londolozi-for-world-lion-day/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Pride cub (2023)",
+   "relation": "killed_by",
+   "object": "Ntsevu lioness (sister) - wounded, then missing",
+   "date": "2023",
+   "evidence_quote_short": "ran in and bit one of the older cubs from her sister’s litter",
+   "source_url": "https://blog.londolozi.com/2023/07/05/the-dedication-of-a-mother-lioness/",
+   "confidence": "inferred"
+  },
+  {
+   "subject": "Styx Pride cub (Ndzhenga-sired)",
+   "relation": "killed_by",
+   "object": "Six nomadic males (suspected)",
+   "date": "2022-12",
+   "evidence_quote_short": "It is believed that they have already killed one of the Styx cubs, sired by the Ndzhenga Males",
+   "source_url": "https://blog.londolozi.com/2022/12/14/what-is-on-the-horizon-for-the-lions-of-londolozi/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Pride",
+   "relation": "breakaway_from",
+   "object": "Ntsevu/Kambula undivided pride (Mala Mala 'Kambula' vs Londolozi 'Ntsevu')",
+   "date": "2024-03-21",
+   "evidence_quote_short": "the Ntsevu Pride by us, and the Kambula Pride by our friends at Mala Mala",
+   "source_url": "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Kambula Pride",
+   "relation": "breakaway_from",
+   "object": "Ntsevu Pride",
+   "date": "2024-03",
+   "evidence_quote_short": "The Kambula Pride emerged from a split in the Ntsevu Pride just over a year ago.",
+   "source_url": "https://blog.londolozi.com/2025/07/14/kambula-pride-of-lions-at-a-crossroads-what-lies-ahead-for-the-next-generation/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu breakaway mothers + third original lioness",
+   "relation": "member_of",
+   "object": "Ntsevu Pride",
+   "date": "2024-03-21",
+   "evidence_quote_short": "the smaller faction of the pride, with three original lionesses, will officially be known as the Ntsevu Pride",
+   "source_url": "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Kambula matriarch (2013) + 2018 daughters",
+   "relation": "member_of",
+   "object": "Kambula Pride",
+   "date": "2024-03-21",
+   "evidence_quote_short": "the last remaining original lioness, along with the five female offspring sired by the Birmingham Males",
+   "source_url": "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Birmingham Males",
+   "relation": "sire_of",
+   "object": "Kambula daughters (born 2018)",
+   "date": "2018",
+   "evidence_quote_short": "the five female offspring sired by the Birmingham Males",
+   "source_url": "https://blog.londolozi.com/2024/03/21/ntsevu-pride-or-kambula-pride-what-is-the-difference/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Kambula daughters (2018)",
+   "relation": "sibling_of",
+   "object": "Ntsevu Breakaway Males",
+   "date": "2018",
+   "evidence_quote_short": "four females that were part of the same litter that the Ntsevu Breakaways were part of",
+   "source_url": "https://blog.londolozi.com/2025/01/21/the-ntsevu-breakaways-on-the-brink-of-dominance/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Breakaway Males",
+   "relation": "sibling_of",
+   "object": "Ntsevu Breakaway Female",
+   "date": "2024",
+   "evidence_quote_short": "where is the sister who once roamed alongside them?",
+   "source_url": "https://blog.londolozi.com/2024/10/02/where-is-the-ntsevu-breakaway-female/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Birmingham Males",
+   "relation": "sire_of",
+   "object": "Ntsevu Breakaway Males and female",
+   "date": "2018",
+   "evidence_quote_short": "In mid-2018 the Ntsevu Lion pride birthed a relatively large litter of cubs who were sired by the Birmingham Coalition.",
+   "source_url": "https://blog.londolozi.com/2022/05/23/the-ntsevu-sub-adult-males-as-a-coalition/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Breakaway Pride",
+   "relation": "breakaway_from",
+   "object": "Ntsevu Pride",
+   "date": "2021-11",
+   "evidence_quote_short": "After initially fleeing from their natal pride with the arrival of the Ndhzenga Males, the Nstevu Breakaway Pride",
+   "source_url": "https://blog.londolozi.com/2023/11/21/whats-next-for-the-lioness-of-ntsevu-breakaways/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Breakaway Males",
+   "relation": "mated_with",
+   "object": "Nkuhuma Pride lionesses",
+   "date": "2024-09",
+   "evidence_quote_short": "contact with the lionesses of the Nkuhuma Pride, with whom they have been mating",
+   "source_url": "https://blog.londolozi.com/2024/09/09/where-are-the-ntsevu-males/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Ntsevu Breakaway Female",
+   "relation": "merged_with",
+   "object": "Styx Male",
+   "date": "2024-10",
+   "evidence_quote_short": "reports of her spending time with the Styx Young Male have surfaced",
+   "source_url": "https://blog.londolozi.com/2024/10/02/where-is-the-ntsevu-breakaway-female/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Kambula Breakaway Lioness (= Ntsevu Breakaway Female)",
+   "relation": "merged_with",
+   "object": "Styx Male",
+   "date": "2026-04",
+   "evidence_quote_short": "For roughly two years now, the two of them have been seldom far apart.",
+   "source_url": "https://blog.londolozi.com/2026/04/02/the-how-and-why-of-male-lion-coalitions/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Kambula Pride lionesses (two)",
+   "relation": "mother_of",
+   "object": "Kambula cubs 2025 (6 Ndzhenga-sired)",
+   "date": "2025",
+   "evidence_quote_short": "five adult lionesses, two of whom are the mothers of the young cubs",
+   "source_url": "https://blog.londolozi.com/2025/08/19/a-pride-in-divide-an-update-on-the-kambula-pride-dynamics/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Kambula lioness",
+   "relation": "mother_of",
+   "object": "Four Kambula cubs of early 2025 (3M, 1F)",
+   "date": "2025-02",
+   "evidence_quote_short": "we were able to confirm that there are 3 males and 1 female",
+   "source_url": "https://blog.londolozi.com/2025/03/12/unveiling-the-newest-generation-of-the-kambula-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Kambula eldest lioness + 11 sub-adults",
+   "relation": "breakaway_from",
+   "object": "Kambula Pride",
+   "date": "2025-07/2025-11",
+   "evidence_quote_short": "One of the lionesses has broken away and is now spending most of her time with a group of eleven sub-adults.",
+   "source_url": "https://blog.londolozi.com/2025/11/19/the-latest-news-on-the-three-factions-of-the-kambula-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Gijima Males",
+   "relation": "takeover_of",
+   "object": "Kambula/Ntsevu territory (from Ndzhenga Males)",
+   "date": "2025-08-15",
+   "evidence_quote_short": "It has been a relatively swift takeover, and one that has not resulted in excessive bloodshed.",
+   "source_url": "https://blog.londolozi.com/2025/11/20/the-gijima-male-lions-push-north-of-the-river/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Kambula sub-adult male",
+   "relation": "killed_by",
+   "object": "Gijima Males",
+   "date": "2025-autumn",
+   "evidence_quote_short": "The only real casualty that we are aware of was one of the young male sub-adults from the Kambula Pride.",
+   "source_url": "https://blog.londolozi.com/2025/11/20/the-gijima-male-lions-push-north-of-the-river/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Gijima Males",
+   "relation": "mated_with",
+   "object": "Ntsevu lioness",
+   "date": "2025-08",
+   "evidence_quote_short": "before taking over and mating with one of the Ntsevu Lionesses",
+   "source_url": "https://blog.londolozi.com/2025/08/17/chaos-on-the-airstrip-gijima-males-rise-as-ndzhengas-fade-virtual-safari-284/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Gijima Males",
+   "relation": "mated_with",
+   "object": "Both Kambula lionesses (the pair)",
+   "date": "2025-12",
+   "evidence_quote_short": "we found the blonde Gijima male mating with both Kambula lionesses later on in the week",
+   "source_url": "https://blog.londolozi.com/2025/12/28/are-the-kambula-cubs-alive-virtual-safari-303/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Gijima Males",
+   "relation": "sire_of",
+   "object": "Kambula cubs of Nov 2025 (4 cubs)",
+   "date": "2025-11",
+   "evidence_quote_short": "are sired by the new Gijima males who have recently taken over this section of territory",
+   "source_url": "https://blog.londolozi.com/2025/11/27/a-new-chapter-for-the-kambula-lionesses/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Kambula cubs of Nov 2025",
+   "relation": "killed_by",
+   "object": "Dark-maned Gijima Male (infanticide)",
+   "date": "2025-12",
+   "evidence_quote_short": "one Kambula Female has already lost her litter to the dark-maned Gijima Male",
+   "source_url": "https://blog.londolozi.com/2025/12/28/are-the-kambula-cubs-alive-virtual-safari-303/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Gijima Males",
+   "relation": "sire_of",
+   "object": "Kambula cubs 2026 (8 cubs, April 2026)",
+   "date": "2026-04",
+   "evidence_quote_short": "The Kambula Pride and the two Gijima Males, out in the open together with their eight cubs",
+   "source_url": "https://blog.londolozi.com/2026/07/26/legacy-is-a-long-game-virtual-safari-333/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Gijima Males",
+   "relation": "sire_of",
+   "object": "Msuthlu cubs",
+   "date": "2022-2025",
+   "evidence_quote_short": "the Gijima Males, fathers of the pride’s cubs and now their protectors",
+   "source_url": "https://blog.londolozi.com/2025/10/08/persistence-pays-off-for-the-msuthlu-pride-of-lions/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Gijima Males",
+   "relation": "member_of",
+   "object": "Dominant over Styx, Southern and Msuthlu prides",
+   "date": "2025",
+   "evidence_quote_short": "the Gijima Males are dominant over the Styx Pride, the Southern Pride and the Msuthlu Pride",
+   "source_url": "https://blog.londolozi.com/2025/09/22/a-northward-shift-by-the-gijima-male-lions/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Gijima Males",
+   "relation": "sire_of",
+   "object": "Southern Pride new offspring (2025)",
+   "date": "2025",
+   "evidence_quote_short": "they currently have their paws full, so to speak, protecting new offspring within the Southern Pride",
+   "source_url": "https://blog.londolozi.com/2025/06/12/an-update-on-the-gijima-males/",
+   "confidence": "inferred"
+  },
+  {
+   "subject": "Msuthlu Pride",
+   "relation": "breakaway_from",
+   "object": "Talamati Pride",
+   "date": "pre-2022?",
+   "evidence_quote_short": "the Msuthlu Pride (formerly the Talamati Breakaway Pride)",
+   "source_url": "https://blog.londolozi.com/2025/10/05/a-wild-week-at-londolozi-muddy-hunts-nhlanguleni-female-leopard-mysteries-vultures-dominate-4-cheetahs-virtual-safari-291/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Talamati Pride",
+   "relation": "breakaway_from",
+   "object": "Nkuhuma Pride",
+   "date": "2007",
+   "evidence_quote_short": "The Talamati Pride broke away from the Nkuhuma Pride in 2007",
+   "source_url": "https://blog.londolozi.com/2022/07/25/the-talamati-pride-who-are-they/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Nwaswitshaka Males",
+   "relation": "mated_with",
+   "object": "Msuthlu lionesses",
+   "date": "2026",
+   "evidence_quote_short": "mating with the N’waswitsaka Males",
+   "source_url": "https://blog.londolozi.com/2026/08/13/scrambled-eggs-on-the-menu-for-the-msuthlu-pride/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Nkumati Coalition",
+   "relation": "mated_with",
+   "object": "Ntsevu lioness (June 2025)",
+   "date": "2025-06",
+   "evidence_quote_short": "who had been mating with a Ntsevu Lioness deep within contested territory",
+   "source_url": "https://blog.londolozi.com/2025/06/22/insane-lion-fight-and-the-mashaba-female-is-back-on-londolozi-virtual-safari-276/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Nkumati Coalition",
+   "relation": "mated_with",
+   "object": "Mhangeni Pride",
+   "date": "2025",
+   "evidence_quote_short": "one Mhangeni female (born in 2018) has given birth to four cubs, born in November 2025",
+   "source_url": "https://blog.londolozi.com/2026/02/12/the-newest-additions-to-the-mhangeni-pride-of-lions/",
+   "confidence": "inferred"
+  },
+  {
+   "subject": "Selati Males",
+   "relation": "takeover_of",
+   "object": "Talamati Pride",
+   "date": "2015",
+   "evidence_quote_short": "the Selati Males moved in and claimed the Talamati Pride of which there were five females now",
+   "source_url": "https://blog.londolozi.com/2022/07/25/the-talamati-pride-who-are-they/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Selati Males",
+   "relation": "sire_of",
+   "object": "Two Selati Daughters (Talamati Pride)",
+   "date": "2015-2019",
+   "evidence_quote_short": "(the sole Matimba daughter and the two Selati Daughters)",
+   "source_url": "https://blog.londolozi.com/2022/07/25/the-talamati-pride-who-are-they/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Northern Avoca Males",
+   "relation": "takeover_of",
+   "object": "Selati Males' hold on the Talamati Pride",
+   "date": "2019",
+   "evidence_quote_short": "removed the Selati males as the dominant force over the Talamati pride",
+   "source_url": "https://blog.londolozi.com/2022/07/25/the-talamati-pride-who-are-they/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Styx Young Male (b.2016) and Nkuhuma young male",
+   "relation": "merged_with",
+   "object": "(each other, coalition 2021)",
+   "date": "2020-2021",
+   "evidence_quote_short": "after initially breaking out of the Styx and Nkuhuma prides",
+   "source_url": "https://blog.londolozi.com/2021/01/09/male-lions-of-londolozi/",
+   "confidence": "stated"
+  },
+  {
+   "subject": "Tsalala Female (b.2019)",
+   "relation": "merged_with",
+   "object": "Mhangeni Female (b.2009)",
+   "date": "2022-07/09",
+   "evidence_quote_short": "the Mhangeni Female would be classified as the Tsalala Female’s great aunt",
+   "source_url": "https://blog.londolozi.com/2022/09/19/the-tsalala-pride-the-next-chapter/",
+   "confidence": "stated"
+  }
+ ],
+ "open_questions": [
+  "COVERAGE GAP: 'The Styx Male: A Growing Presence' (2026-09-05) is not in the local corpus (latest file is 2026-09-01); Styx Male data comes from 2024-10 to 2026-07 posts only.",
+  "COVERAGE GAP: No saved post mentions 'Eyrefield'. 'Selati' appears in only three posts (2019-07-31, 2019-08-15, 2022-07-25); 'Southern Pride' in five (2019-09-05, 2020-03-24, 2021-04-06, 2025-06-12, 2025-09-22).",
+  "Date of Mhangeni formation: 2010 (2016-04-18, 2016-09-07), 'late 2011-Jan 2012' (2021-12-07, final separation after the Jan 2012 flood), or named only when cubs arrived in 2013 (2016-09-03). Posts of 2024-06-10 say the Ntsevu 'broke away to form the Ntsevu Pride in 2015'; 2017-04-29 / 2017-11-06 say 2016-17.",
+  "Paternity of the 2013 Mhangeni cubs and the 2015-16 litter: stated as Majingilane (2018-02-27, 2018-11-08, 2016-05-10) - but 2017-01-09 says Mhangeni Breakaway cubs were believed sired by the Matimba males and 2017-04-29 says those litters failed. The 2024-06-10 post conflates 'offspring from this litter' (2013) with Ntsevu forming in 2015.",
+  "Mhangeni foundresses' birth year: 2009 (2021-12-07, 2022-09-19, 2024-06-10) vs 2008 (2019-12-02); '11 years old' in Dec 2019 implies 2008. Their sires are the Mapogo per 2021-12-07/2024-06-10 - but 2019-12-02 does not say.",
+  "Number of 2013 founders still alive: 6 original Ntsevu lionesses; 2 lost early/mid 2023 (2023-06-19, 2024-03-21), 3 in the Ntsevu faction (2024-03-21), 1 in the Kambula faction. 2023-07-19 says two mothers (4 cubs and 5 cubs) 'died', consistent with the loss but not proven to be the same two.",
+  "Kambula Pride composition: 2024-03-21 'last original lioness + five female offspring' (6 total) vs 2024-04-11 'five lionesses' vs 2025-01-21 'four females from the same litter' vs 2025-07-14 'five adult lionesses'. Likely 1 original + 4 daughters = 5, but unresolved.",
+  "Cub counts for the 2018 Birmingham-sired litters and sub-adults vary: 15 presumed (2018-11), 13 (2019-01), 11 + 4 (2019-11), 11 (2021-08, 5M/6F), 11 (2022-05, 5F/6M), 12 (6M/6F, 2022-08), 10 (2021-08), 12 with 8 males/3 females (2019-11). Sex ratios disagree.",
+  "Counts for the Ndzhenga-sired 2022-23 cohort: 21 cubs (2023-06-19), 24 (2023-07-19), 12 remain (Jul 2023), 13 (Apr 2024), 12 sub-adults 8M/4F (Feb 2025), 11 sub-adults 7M/4F (Jul and Nov 2025, even after a male was killed).",
+  "Sub-adult male killed by the Gijima Males (Nov 2025): the blog still lists 7 young males after the death in 2025-11-19, so either the kill happened before the 11 count or the count was not updated.",
+  "Ntsevu lioness thought infertile: 2020-08-18 says she may have given birth to two cubs; 2024-08-15 says she is barren and has 'never been able to fall pregnant'. Which of the six is the barren one is never stated.",
+  "Date of Ntsevu trio litter: 2023-12-17 says early August 2023 (first seen 23 Oct 2023) vs 2024-08-15 says 'November 2023' (1 male, 2 females). The 5-cub litter of 2021-04 vs 5 born 'in April this year' (2022-01-10) and 11 cubs born 'early October 2021' (2022-04-11) also differ in timing.",
+  "The 'last Birmingham cubs' (2021 litter): 2022-04 four survive; 2022-08 two survive; 2024-03 caption 'the 2 remaining youngsters'. Their sexes are never given; whether the pair belongs to the Ntsevu Pride proper is unclear.",
+  "Birmingham Males: 5 original (2022-08-03, 2019-08-15), 6 (2021-06-22), 4 in 2018, 3 in early 2019, 2 by Dec 2019, 1 by Nov 2021; date and cause of the death of the first male is not given.",
+  "Ndzhenga and Gijima: 2023-06-19 says the S79 Ndzhenga male was injured by the Gijima Males in April 2022; 2025-08-21 says the Ndzhenga 'killed the third Gijima Male' months after arriving; does that refer to a fight in late 2021/early 2022?",
+  "Msuthlu Pride origin: described as 'formerly the Talamati Breakaway Pride' (2025-10-05) and 'first met in 2022' (2026-04-04), yet 2026-04-04 says all 14 lions were sired by the Gijima Males. It is unclear whether the 2022 Talamati Pride sub-adult females (daughters of the Northern Avoca Males) are the Msuthlu adults.",
+  "Sire of the Styx Male: 2025-02-20 says one of the Ndzhenga Males is 'actually his father'; 2022-11-10 says Ndzhenga Males sired litters with the Styx Pride but Styx Male b. 2021 pre-dates their arrival at Londolozi (Nov 2021) - plausible only if they were consorting in 2020-21 as the posts suggest. His mother is never named.",
+  "Whether the Ntsevu Breakaway Female's mother is any specific lioness: 2024-10-02 says she is 'the daughter of the one female in the Pride', an unclear phrase, so no maternal link is asserted.",
+  "Othawa Male: age at 2019-12-02 ('about seven years old') conflicts with 2018-09-17 (3.5 years) and 2021-01-09 (born early 2015). Exact death date not given (between Jun 2021 and Nov 2021). Origin pride unknown.",
+  "Whether 'Othawa lionesses' (2018-05-07) are the same as the 'Othawa Pride' of 2026-02-12 is not stated.",
+  "Relationship of the Original Tailless Female and the Tailless/Tailed 'Tsalala Sisters' to other agent groups (Tsalala data) is only captured at the level needed to anchor the Mhangeni lineage; consult the Tsalala file for details.",
+  "The 'Southern Pride' lioness's cubs (b. ~Oct 2020) fate and the sire of those cubs are unstated; the 2025 'new offspring' are said to be protected by the Gijima Males."
+ ]
+}
